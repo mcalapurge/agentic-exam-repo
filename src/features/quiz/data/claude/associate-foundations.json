@@ -2,7 +2,7 @@
   "examId": "associate-foundations",
   "examName": "Claude Certified Associate – Foundations",
   "examShort": "CCAO-F",
-  "generatedAt": "2026-10-05T15:10:04.993Z",
+  "generatedAt": "2026-11-20T15:42:41.393Z",
   "questionCount": 487,
   "questions": [
     {
@@ -279,7 +279,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Role, context, task, constraint, and format are the standard building blocks taught for effective business prompting."
+      "explanation": "Role, context, task, constraint, and format are the standard building blocks taught for effective business prompting.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "25913050e5aef287"
+      }
     },
     {
       "id": "associate-foundations-8",
@@ -391,7 +399,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Constraints are user-specified limits — length, tone, style, things to include or avoid — that shape the output."
+      "explanation": "Constraints are user-specified limits — length, tone, style, things to include or avoid — that shape the output.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8e2cd8d23662f542"
+      }
     },
     {
       "id": "associate-foundations-11",
@@ -421,7 +437,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Specifying the exact output format is the most direct way to reliably get a structured list rather than free-flowing prose."
+      "explanation": "Specifying the exact output format is the most direct way to reliably get a structured list rather than free-flowing prose.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "15aff895fa5dcabc"
+      }
     },
     {
       "id": "associate-foundations-12",
@@ -656,7 +680,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Font is a rendering detail outside Claude's control for a text response; audience, tone, length, and source content actually shape a useful draft."
+      "explanation": "Font is a rendering detail outside Claude's control for a text response; audience, tone, length, and source content actually shape a useful draft.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e0133a5223f51aad"
+      }
     },
     {
       "id": "associate-foundations-18",
@@ -810,7 +842,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Outlining phases first, then filling in each phase, is a natural staged decomposition that keeps each step reviewable."
+      "explanation": "Outlining phases first, then filling in each phase, is a natural staged decomposition that keeps each step reviewable.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e850a69f6806aaba"
+      }
     },
     {
       "id": "associate-foundations-22",
@@ -840,7 +880,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Validating the outline before drafting prevents structural problems from propagating into a much larger piece of work."
+      "explanation": "Validating the outline before drafting prevents structural problems from propagating into a much larger piece of work.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3301b7175e762775"
+      }
     },
     {
       "id": "associate-foundations-23",
@@ -908,7 +956,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Sequencing research, then drafting, then formatting lets each stage build on a validated version of the previous one."
+      "explanation": "Sequencing research, then drafting, then formatting lets each stage build on a validated version of the previous one.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0f329bedc719183f"
+      }
     },
     {
       "id": "associate-foundations-25",
@@ -938,7 +994,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Decomposition's value comes specifically from the review-and-correct opportunity between steps; skipping review forfeits that benefit."
+      "explanation": "Decomposition's value comes specifically from the review-and-correct opportunity between steps; skipping review forfeits that benefit.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "cbaa0eedb75476fb"
+      }
     },
     {
       "id": "associate-foundations-26",
@@ -968,7 +1032,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Simple, low-stakes, single-part requests don't have the dependency chains that make decomposition valuable."
+      "explanation": "Simple, low-stakes, single-part requests don't have the dependency chains that make decomposition valuable.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6df8eedf9e275db3"
+      }
     },
     {
       "id": "associate-foundations-27",
@@ -998,7 +1070,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Bundling several substantial, loosely related deliverables into one request makes it harder to isolate and fix problems in any single component."
+      "explanation": "Bundling several substantial, loosely related deliverables into one request makes it harder to isolate and fix problems in any single component.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "14c7e0859749f5f4"
+      }
     },
     {
       "id": "associate-foundations-28",
@@ -1028,7 +1108,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Specific, targeted feedback about what's actually wrong is far more effective than vague dissatisfaction or blind repetition."
+      "explanation": "Specific, targeted feedback about what's actually wrong is far more effective than vague dissatisfaction or blind repetition.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4bc6841758393b40"
+      }
     },
     {
       "id": "associate-foundations-29",
@@ -1178,7 +1266,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "'This isn't quite right' gives no specific, actionable direction, unlike the other options."
+      "explanation": "'This isn't quite right' gives no specific, actionable direction, unlike the other options.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "376fd6f7a4bcadd7"
+      }
     },
     {
       "id": "associate-foundations-33",
@@ -1480,7 +1576,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Audience, tone, and structural/genre conventions most directly shape whether a draft reads appropriately for its purpose."
+      "explanation": "Audience, tone, and structural/genre conventions most directly shape whether a draft reads appropriately for its purpose.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d6cf19b2997be4d9"
+      }
     },
     {
       "id": "associate-foundations-41",
@@ -1510,7 +1614,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Analytical tasks benefit from specific, targeted questions rather than an open-ended 'analyze this' with no direction."
+      "explanation": "Analytical tasks benefit from specific, targeted questions rather than an open-ended 'analyze this' with no direction.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7fd5b3591bd89599"
+      }
     },
     {
       "id": "associate-foundations-42",
@@ -2116,7 +2228,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A 'reimagine from scratch' framing removes the anchoring effect of the existing process, surfacing more genuinely fresh ideas."
+      "explanation": "A 'reimagine from scratch' framing removes the anchoring effect of the existing process, surfacing more genuinely fresh ideas.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b83a1190002cf0f3"
+      }
     },
     {
       "id": "associate-foundations-58",
@@ -2187,7 +2307,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A concrete example removes ambiguity a written description alone might leave, improving consistency."
+      "explanation": "A concrete example removes ambiguity a written description alone might leave, improving consistency.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf9ad6129f65c51d"
+      }
     },
     {
       "id": "associate-foundations-60",
@@ -2299,7 +2427,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A useful example demonstrates transferable qualities rather than requiring an identical topic."
+      "explanation": "A useful example demonstrates transferable qualities rather than requiring an identical topic.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e926f7452df5f31c"
+      }
     },
     {
       "id": "associate-foundations-63",
@@ -2329,7 +2465,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Reusing a validated example as a template efficiently maintains consistency across recurring deliverables."
+      "explanation": "Reusing a validated example as a template efficiently maintains consistency across recurring deliverables.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "531a162789125ecb"
+      }
     },
     {
       "id": "associate-foundations-64",
@@ -2400,7 +2544,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Recurring tasks with existing reference material are exactly where example-driven prompting adds the most consistency value."
+      "explanation": "Recurring tasks with existing reference material are exactly where example-driven prompting adds the most consistency value.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e1e00e114ecd6289"
+      }
     },
     {
       "id": "associate-foundations-66",
@@ -2430,7 +2582,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Explicitly framing which parts of an imperfect example are relevant avoids over-generalizing from irrelevant specifics."
+      "explanation": "Explicitly framing which parts of an imperfect example are relevant avoids over-generalizing from irrelevant specifics.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "437d9122259e74b0"
+      }
     },
     {
       "id": "associate-foundations-67",
@@ -2501,7 +2661,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Explicitly naming the desired structure and column headers is the most direct way to reliably get that exact format."
+      "explanation": "Explicitly naming the desired structure and column headers is the most direct way to reliably get that exact format.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "aabd9100a0301c2d"
+      }
     },
     {
       "id": "associate-foundations-69",
@@ -2692,7 +2860,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Explicitly restating or persisting the exact required headers is the reliable way to enforce consistent structure."
+      "explanation": "Explicitly restating or persisting the exact required headers is the reliable way to enforce consistent structure.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f78296f1b8a3c6b1"
+      }
     },
     {
       "id": "associate-foundations-74",
@@ -2722,7 +2898,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Concrete, measurable constraints reduce ambiguity compared to subjective terms, improving reliability of the result."
+      "explanation": "Concrete, measurable constraints reduce ambiguity compared to subjective terms, improving reliability of the result.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "63fb37231ec2bf62"
+      }
     },
     {
       "id": "associate-foundations-75",
@@ -2752,7 +2936,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Explicitly requesting the exact labeled sections up front is more direct than correcting after the fact."
+      "explanation": "Explicitly requesting the exact labeled sections up front is more direct than correcting after the fact.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8b431b42a2637e18"
+      }
     },
     {
       "id": "associate-foundations-76",
@@ -2823,7 +3015,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Specificity makes a fabricated number sound more credible, not more accurate — uncited figures should be verified before use."
+      "explanation": "Specificity makes a fabricated number sound more credible, not more accurate — uncited figures should be verified before use.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fbb97031b184b52f"
+      }
     },
     {
       "id": "associate-foundations-78",
@@ -2932,7 +3132,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Ironically, unsourced but highly specific claims deserve more scrutiny than appropriately hedged ones, since specificity can create false confidence."
+      "explanation": "Ironically, unsourced but highly specific claims deserve more scrutiny than appropriately hedged ones, since specificity can create false confidence.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "57615eade7e7121e"
+      }
     },
     {
       "id": "associate-foundations-81",
@@ -3003,7 +3211,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Independent verification — not the confidence or plausibility of the phrasing — is the reliable safeguard against hallucinated facts."
+      "explanation": "Independent verification — not the confidence or plausibility of the phrasing — is the reliable safeguard against hallucinated facts.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2cc9bdb41b4d99f6"
+      }
     },
     {
       "id": "associate-foundations-83",
@@ -3033,7 +3249,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Requests for precise data in low-availability, narrow domains are where models are most likely to fill gaps with plausible-sounding fabrication."
+      "explanation": "Requests for precise data in low-availability, narrow domains are where models are most likely to fill gaps with plausible-sounding fabrication.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5c2a958ffb201eb6"
+      }
     },
     {
       "id": "associate-foundations-84",
@@ -3063,7 +3287,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Fluency and confidence are stylistic properties, not accuracy signals — hallucinations frequently share both."
+      "explanation": "Fluency and confidence are stylistic properties, not accuracy signals — hallucinations frequently share both.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ff559d11b59b25e7"
+      }
     },
     {
       "id": "associate-foundations-85",
@@ -3093,7 +3325,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Quotation marks don't guarantee authenticity — attributed quotes should be checked against a real source before public use."
+      "explanation": "Quotation marks don't guarantee authenticity — attributed quotes should be checked against a real source before public use.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8eddecdff5fbabbf"
+      }
     },
     {
       "id": "associate-foundations-86",
@@ -3123,7 +3363,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "An appropriately hedged 'I don't know' is more trustworthy than a fabricated specific answer, and should be respected rather than pressured away."
+      "explanation": "An appropriately hedged 'I don't know' is more trustworthy than a fabricated specific answer, and should be respected rather than pressured away.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4d1e69c12320783c"
+      }
     },
     {
       "id": "associate-foundations-87",
@@ -3235,7 +3483,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Independent cross-checking of specific claims is the direct, reliable mitigation — tone, vocabulary, and length are not accuracy signals."
+      "explanation": "Independent cross-checking of specific claims is the direct, reliable mitigation — tone, vocabulary, and length are not accuracy signals.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5b0ea77cf301752a"
+      }
     },
     {
       "id": "associate-foundations-90",
@@ -3344,7 +3600,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Risk-proportional verification — more scrutiny for higher-stakes claims — is a practical, efficient approach to fact-checking AI output."
+      "explanation": "Risk-proportional verification — more scrutiny for higher-stakes claims — is a practical, efficient approach to fact-checking AI output.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "99395cd2990fa2a6"
+      }
     },
     {
       "id": "associate-foundations-93",
@@ -3374,7 +3638,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Even with document access, spot-checking specific pinpoint citations is a cheap, worthwhile verification step before relying on them."
+      "explanation": "Even with document access, spot-checking specific pinpoint citations is a cheap, worthwhile verification step before relying on them.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "13db53fef13ff70f"
+      }
     },
     {
       "id": "associate-foundations-94",
@@ -3522,7 +3794,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Checking the actual regulatory text or an official source is the direct way to confirm a legal/regulatory claim."
+      "explanation": "Checking the actual regulatory text or an official source is the direct way to confirm a legal/regulatory claim.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1ff9f9a9898eb3ab"
+      }
     },
     {
       "id": "associate-foundations-98",
@@ -3552,7 +3832,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Directly checking the named source document is the concrete verification step — an attribution alone isn't verification."
+      "explanation": "Directly checking the named source document is the concrete verification step — an attribution alone isn't verification.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3e7049dfa00679b6"
+      }
     },
     {
       "id": "associate-foundations-99",
@@ -3582,7 +3870,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Each layer of summarization is a chance for error or distortion to be introduced, making the primary source the more reliable check."
+      "explanation": "Each layer of summarization is a chance for error or distortion to be introduced, making the primary source the more reliable check.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d7fe07ea4503950b"
+      }
     },
     {
       "id": "associate-foundations-100",
@@ -3688,7 +3984,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "The official government/legislative record is the authoritative primary source for a law's effective date."
+      "explanation": "The official government/legislative record is the authoritative primary source for a law's effective date.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8a1386c330efdcdb"
+      }
     },
     {
       "id": "associate-foundations-103",
@@ -3756,7 +4060,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Spot-checking key claims against the actual source passages is the practical, reliable way to validate a summary."
+      "explanation": "Spot-checking key claims against the actual source passages is the practical, reliable way to validate a summary.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "84304fa4b2344a74"
+      }
     },
     {
       "id": "associate-foundations-105",
@@ -3824,7 +4136,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "When a verified primary source contradicts an AI claim, the primary source should take precedence in the final deliverable."
+      "explanation": "When a verified primary source contradicts an AI claim, the primary source should take precedence in the final deliverable.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "15b63c218367e85e"
+      }
     },
     {
       "id": "associate-foundations-107",
@@ -3854,7 +4174,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "The company's own official filing or earnings release is the authoritative primary source for its reported revenue."
+      "explanation": "The company's own official filing or earnings release is the authoritative primary source for its reported revenue.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c2d556c6848e5e8b"
+      }
     },
     {
       "id": "associate-foundations-108",
@@ -4036,7 +4364,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "The competitor's own official documentation is the authoritative primary source for claims about their product's actual features."
+      "explanation": "The competitor's own official documentation is the authoritative primary source for claims about their product's actual features.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6b71b28268c55d20"
+      }
     },
     {
       "id": "associate-foundations-113",
@@ -4674,7 +5010,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "High-stakes domains where errors cause real harm — medical, legal, financial, safety — are exactly where SME review is expected."
+      "explanation": "High-stakes domains where errors cause real harm — medical, legal, financial, safety — are exactly where SME review is expected.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "81743e8ab63a8ceb"
+      }
     },
     {
       "id": "associate-foundations-130",
@@ -4704,7 +5048,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "External contract language carries legal risk and requires qualified legal review before being sent, regardless of drafting quality."
+      "explanation": "External contract language carries legal risk and requires qualified legal review before being sent, regardless of drafting quality.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "203efe18b7e1a137"
+      }
     },
     {
       "id": "associate-foundations-131",
@@ -4810,7 +5162,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Risk-based triage — based on the real-world consequences of an error — is the sound way to decide where SME review is warranted."
+      "explanation": "Risk-based triage — based on the real-world consequences of an error — is the sound way to decide where SME review is warranted.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5e53791953a8cbb0"
+      }
     },
     {
       "id": "associate-foundations-134",
@@ -4878,7 +5238,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Sign-off requires genuine, relevant expertise — general confidence or availability doesn't substitute for actual qualification."
+      "explanation": "Sign-off requires genuine, relevant expertise — general confidence or availability doesn't substitute for actual qualification.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "baa8685abc04639f"
+      }
     },
     {
       "id": "associate-foundations-136",
@@ -5098,7 +5466,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Clear, explicit policy criteria for mandatory review help ensure consistent, appropriate handling of high-stakes content across an organization."
+      "explanation": "Clear, explicit policy criteria for mandatory review help ensure consistent, appropriate handling of high-stakes content across an organization.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "227b5001ff1d0d4c"
+      }
     },
     {
       "id": "associate-foundations-142",
@@ -5394,7 +5770,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Content meant to be revisited and edited over time is better served by a persistent, standalone document than a one-off inline reply."
+      "explanation": "Content meant to be revisited and edited over time is better served by a persistent, standalone document than a one-off inline reply.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0f8a56ce591fab1e"
+      }
     },
     {
       "id": "associate-foundations-150",
@@ -5500,7 +5884,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Downstream tools generally need consistent, structured fields to process data reliably — prose requires manual extraction first."
+      "explanation": "Downstream tools generally need consistent, structured fields to process data reliably — prose requires manual extraction first.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "62a4547eb16efaae"
+      }
     },
     {
       "id": "associate-foundations-153",
@@ -5530,7 +5922,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Matching format weight to the request's actual scope avoids over-engineering a simple conversational ask."
+      "explanation": "Matching format weight to the request's actual scope avoids over-engineering a simple conversational ask.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f98e65a16ceb11c8"
+      }
     },
     {
       "id": "associate-foundations-154",
@@ -6256,7 +6656,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Neither phrasing style is a reliable accuracy signal on its own — both claims require the same independent verification."
+      "explanation": "Neither phrasing style is a reliable accuracy signal on its own — both claims require the same independent verification.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b53a7e42c670a72f"
+      }
     },
     {
       "id": "associate-foundations-173",
@@ -6438,7 +6846,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle."
+      "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "229203bd9e749cc7"
+      }
     },
     {
       "id": "associate-foundations-178",
@@ -6468,7 +6884,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle."
+      "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf7b02dd50c31f32"
+      }
     },
     {
       "id": "associate-foundations-179",
@@ -6539,7 +6963,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Simple, repetitive, high-volume classification is exactly the kind of task where a lighter tier is both sufficient and more cost-effective."
+      "explanation": "Simple, repetitive, high-volume classification is exactly the kind of task where a lighter tier is both sufficient and more cost-effective.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fcc7c8117a45d866"
+      }
     },
     {
       "id": "associate-foundations-181",
@@ -6569,7 +7001,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "High-stakes, nuanced reasoning tasks are where investing in a more capable tier tends to pay off despite the extra cost/latency."
+      "explanation": "High-stakes, nuanced reasoning tasks are where investing in a more capable tier tends to pay off despite the extra cost/latency.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "77709cb1b4d4eb62"
+      }
     },
     {
       "id": "associate-foundations-182",
@@ -6640,7 +7080,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "For tasks that fall between the extremes, a balanced mid-tier choice — adjusted based on observed results — is a practical starting point."
+      "explanation": "For tasks that fall between the extremes, a balanced mid-tier choice — adjusted based on observed results — is a practical starting point.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a69a3f5f99fe7007"
+      }
     },
     {
       "id": "associate-foundations-184",
@@ -6711,7 +7159,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Interface color preferences have no bearing on which model tier best fits a task's complexity, stakes, or speed/cost needs."
+      "explanation": "Interface color preferences have no bearing on which model tier best fits a task's complexity, stakes, or speed/cost needs.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ad033b207c8a6c73"
+      }
     },
     {
       "id": "associate-foundations-186",
@@ -6896,7 +7352,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A web-search-capable mode/feature is specifically designed for incorporating current information beyond static training knowledge."
+      "explanation": "A web-search-capable mode/feature is specifically designed for incorporating current information beyond static training knowledge.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "95f6a64c31dc3733"
+      }
     },
     {
       "id": "associate-foundations-191",
@@ -6964,7 +7428,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Recognizing when static knowledge isn't enough and using the appropriate current-information feature is a core product-selection skill."
+      "explanation": "Recognizing when static knowledge isn't enough and using the appropriate current-information feature is a core product-selection skill.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "376f1ef8d837b9f4"
+      }
     },
     {
       "id": "associate-foundations-193",
@@ -7032,7 +7504,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Interactive, usable tools are exactly the kind of content artifacts are designed to render and let users directly interact with."
+      "explanation": "Interactive, usable tools are exactly the kind of content artifacts are designed to render and let users directly interact with.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1db0431c0188d995"
+      }
     },
     {
       "id": "associate-foundations-195",
@@ -7062,7 +7542,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A research/search-enabled mode is the product surface built specifically to bridge the gap to current, real-world developments."
+      "explanation": "A research/search-enabled mode is the product surface built specifically to bridge the gap to current, real-world developments.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "caf831fd0eed52b4"
+      }
     },
     {
       "id": "associate-foundations-196",
@@ -7092,7 +7580,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Unrelated, one-off questions don't benefit from Project-level shared context, so plain conversations are the simpler, proportionate choice."
+      "explanation": "Unrelated, one-off questions don't benefit from Project-level shared context, so plain conversations are the simpler, proportionate choice.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "131e2ca5afbdda3c"
+      }
     },
     {
       "id": "associate-foundations-197",
@@ -7122,7 +7618,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Persistent knowledge sources within a Project avoid the repetitive re-uploading and re-explaining that plain conversations would require."
+      "explanation": "Persistent knowledge sources within a Project avoid the repetitive re-uploading and re-explaining that plain conversations would require.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9636acc632281709"
+      }
     },
     {
       "id": "associate-foundations-198",
@@ -7152,7 +7656,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Substantial, reusable, editable deliverables are best served by a standalone artifact rather than a transient inline chat reply."
+      "explanation": "Substantial, reusable, editable deliverables are best served by a standalone artifact rather than a transient inline chat reply.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1885b5a284d97a0d"
+      }
     },
     {
       "id": "associate-foundations-199",
@@ -7279,7 +7791,7 @@
       "sourceFile": "ccao_practice_questions.json",
       "examSet": "Product and Model Selection",
       "number": 202,
-      "stem": "A user needs to collaborate with teammates who should all see the same shared context, files, and conversation history for an ongoing initiative. Which feature best supports this?",
+      "stem": "A user needs to collaborate with teammates who should all work from the same shared instructions and reference files for an ongoing initiative. Which feature best supports this?",
       "options": [
         {
           "key": "A",
@@ -7302,7 +7814,16 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Shared, persistent team context across an ongoing initiative is exactly the scenario Projects are designed to support."
+      "explanation": "A shared Project gives every member the same project instructions and knowledge base, and that knowledge is used in every chat within the project. Context from individual chats is not shared unless it is added to the project knowledge.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "reworded": true,
+        "contentHash": "6a1b491392ac122e"
+      }
     },
     {
       "id": "associate-foundations-203",
@@ -7370,7 +7891,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "When none of the specialized features' conditions apply, plain conversation is the simplest, most proportionate choice."
+      "explanation": "When none of the specialized features' conditions apply, plain conversation is the simplest, most proportionate choice.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ca57b5e8eee5877b"
+      }
     },
     {
       "id": "associate-foundations-205",
@@ -7438,7 +7967,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Centralized oversight and consistent policy enforcement are best supported by an organization-level deployment rather than disconnected individual accounts."
+      "explanation": "Centralized oversight and consistent policy enforcement are best supported by an organization-level deployment rather than disconnected individual accounts.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5600e88c5cce1bfd"
+      }
     },
     {
       "id": "associate-foundations-207",
@@ -7582,7 +8119,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "23b2e7c3e62df2bf"
+      }
     },
     {
       "id": "associate-foundations-211",
@@ -7612,7 +8157,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8046e794b885ef71"
+      }
     },
     {
       "id": "associate-foundations-212",
@@ -7642,7 +8195,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0ce886fa62c9cd4d"
+      }
     },
     {
       "id": "associate-foundations-213",
@@ -7672,7 +8233,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6bfbba5a2c42a323"
+      }
     },
     {
       "id": "associate-foundations-214",
@@ -7702,7 +8271,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "19b3c423746fa8b7"
+      }
     },
     {
       "id": "associate-foundations-215",
@@ -7732,7 +8309,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect."
+      "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fa3623144bc24d03"
+      }
     },
     {
       "id": "associate-foundations-216",
@@ -7762,7 +8347,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "HITL design keeps a human meaningfully in control of consequential decisions, with AI supporting rather than replacing that judgment."
+      "explanation": "HITL design keeps a human meaningfully in control of consequential decisions, with AI supporting rather than replacing that judgment.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "49f0cc11b74bd1f3"
+      }
     },
     {
       "id": "associate-foundations-217",
@@ -7868,7 +8461,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Review before external distribution — not after signing — is the point where a human checkpoint can actually prevent a problematic term from being sent."
+      "explanation": "Review before external distribution — not after signing — is the point where a human checkpoint can actually prevent a problematic term from being sent.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3ff29a452543023b"
+      }
     },
     {
       "id": "associate-foundations-220",
@@ -8050,7 +8651,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Risk-proportional review — more scrutiny where the stakes or reversibility concerns are higher — is a sound design principle within a single workflow."
+      "explanation": "Risk-proportional review — more scrutiny where the stakes or reversibility concerns are higher — is a sound design principle within a single workflow.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f8eaf3c274e8e979"
+      }
     },
     {
       "id": "associate-foundations-225",
@@ -8080,7 +8689,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Calibrating review intensity to actual risk — not applying uniform maximum scrutiny everywhere — reduces unnecessary bottlenecks while preserving safety where it matters."
+      "explanation": "Calibrating review intensity to actual risk — not applying uniform maximum scrutiny everywhere — reduces unnecessary bottlenecks while preserving safety where it matters.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "691bede7ff9693e0"
+      }
     },
     {
       "id": "associate-foundations-226",
@@ -8224,7 +8841,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Targeting mandatory review specifically at higher-risk content (regulated claims) while streamlining routine content is a sound, risk-proportional design."
+      "explanation": "Targeting mandatory review specifically at higher-risk content (regulated claims) while streamlining routine content is a sound, risk-proportional design.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "89d4043697f0843e"
+      }
     },
     {
       "id": "associate-foundations-230",
@@ -8444,7 +9069,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Specifying the target tool's exact expected format up front avoids the need for manual reformatting after the fact."
+      "explanation": "Specifying the target tool's exact expected format up front avoids the need for manual reformatting after the fact.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5cf327c283175488"
+      }
     },
     {
       "id": "associate-foundations-236",
@@ -8588,7 +9221,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Requesting the exact structured fields needed up front minimizes the manual extraction work required before the data reaches its destination."
+      "explanation": "Requesting the exact structured fields needed up front minimizes the manual extraction work required before the data reaches its destination.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bcbc5b5ac1e8d3bb"
+      }
     },
     {
       "id": "associate-foundations-240",
@@ -8618,7 +9259,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Treating format as a workflow-design consideration up front — not an afterthought — produces more directly usable output."
+      "explanation": "Treating format as a workflow-design consideration up front — not an afterthought — produces more directly usable output.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7e07d2c1a3edfade"
+      }
     },
     {
       "id": "associate-foundations-241",
@@ -8689,7 +9338,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Carrying forward a concise summary into a fresh conversation preserves what's relevant while shedding the accumulated clutter of an overly long thread."
+      "explanation": "Carrying forward a concise summary into a fresh conversation preserves what's relevant while shedding the accumulated clutter of an overly long thread.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "371a6c392c392d02"
+      }
     },
     {
       "id": "associate-foundations-243",
@@ -8837,7 +9494,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Persisting recurring, stable context at the Project level removes the repetitive manual re-entry burden."
+      "explanation": "Persisting recurring, stable context at the Project level removes the repetitive manual re-entry burden.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "732e83859f6128e7"
+      }
     },
     {
       "id": "associate-foundations-247",
@@ -8867,7 +9532,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Without active management, important context can get buried under accumulated volume, which is exactly the failure mode summarization/restarting addresses."
+      "explanation": "Without active management, important context can get buried under accumulated volume, which is exactly the failure mode summarization/restarting addresses.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1e73c8c96407e5d0"
+      }
     },
     {
       "id": "associate-foundations-248",
@@ -8897,7 +9570,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Explicitly capturing a summary of key decisions is a practical way to preserve continuity when transitioning to a new conversation."
+      "explanation": "Explicitly capturing a summary of key decisions is a practical way to preserve continuity when transitioning to a new conversation.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "77655ea837845c58"
+      }
     },
     {
       "id": "associate-foundations-249",
@@ -8927,7 +9608,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Short, focused, single-topic conversations don't accumulate the context bloat that makes summarization or restarting valuable."
+      "explanation": "Short, focused, single-topic conversations don't accumulate the context bloat that makes summarization or restarting valuable.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0079b50b0885669e"
+      }
     },
     {
       "id": "associate-foundations-250",
@@ -8995,7 +9684,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action."
+      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fa1331d676ba534e"
+      }
     },
     {
       "id": "associate-foundations-252",
@@ -9025,7 +9722,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action."
+      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1839746dd1210c1f"
+      }
     },
     {
       "id": "associate-foundations-253",
@@ -9055,7 +9760,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action."
+      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf4f22c4e8d23550"
+      }
     },
     {
       "id": "associate-foundations-254",
@@ -9085,7 +9798,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action."
+      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b42dd13435fc2392"
+      }
     },
     {
       "id": "associate-foundations-255",
@@ -9115,7 +9836,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action."
+      "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "df701a2998680f56"
+      }
     },
     {
       "id": "associate-foundations-256",
@@ -9221,7 +9950,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A clear picture of the existing process is what allows for thoughtful, targeted integration rather than guesswork."
+      "explanation": "A clear picture of the existing process is what allows for thoughtful, targeted integration rather than guesswork.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ece3fa5ba77bd9ed"
+      }
     },
     {
       "id": "associate-foundations-259",
@@ -9251,7 +9988,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "An inadvertently dropped safeguard should be restored — good AI integration shouldn't come at the cost of previously necessary controls."
+      "explanation": "An inadvertently dropped safeguard should be restored — good AI integration shouldn't come at the cost of previously necessary controls.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8233a6987e939df9"
+      }
     },
     {
       "id": "associate-foundations-260",
@@ -9395,7 +10140,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Clear stages create checkpoints for catching issues early and allow each part of the process to be independently refined."
+      "explanation": "Clear stages create checkpoints for catching issues early and allow each part of the process to be independently refined.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a6301a3cd3af5dcf"
+      }
     },
     {
       "id": "associate-foundations-264",
@@ -9463,7 +10216,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Catching foundational errors early avoids the wasted effort of building substantial additional work on top of a flawed base."
+      "explanation": "Catching foundational errors early avoids the wasted effort of building substantial additional work on top of a flawed base.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d0f1a01fb8925f6a"
+      }
     },
     {
       "id": "associate-foundations-266",
@@ -9493,7 +10254,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "In a chained workflow, an uncaught early-stage error tends to propagate forward, corrupting everything built on top of it."
+      "explanation": "In a chained workflow, an uncaught early-stage error tends to propagate forward, corrupting everything built on top of it.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "517f3253e8b0477c"
+      }
     },
     {
       "id": "associate-foundations-267",
@@ -9675,7 +10444,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Project-level custom instructions apply automatically and consistently across every conversation in that Project, removing the need for manual repetition."
+      "explanation": "Project-level custom instructions apply automatically and consistently across every conversation in that Project, removing the need for manual repetition.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9902373bcac8933b"
+      }
     },
     {
       "id": "associate-foundations-272",
@@ -9705,7 +10482,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Project-level instructions persist and automatically apply to new conversations created within that Project."
+      "explanation": "Project-level instructions persist and automatically apply to new conversations created within that Project.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8126d19f70431751"
+      }
     },
     {
       "id": "associate-foundations-273",
@@ -9735,7 +10520,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Persisted client-specific context in a Project saves the repetitive re-explanation that separate, unconfigured conversations would require."
+      "explanation": "Persisted client-specific context in a Project saves the repetitive re-explanation that separate, unconfigured conversations would require.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "01c3febc1241ed1e"
+      }
     },
     {
       "id": "associate-foundations-274",
@@ -9803,7 +10596,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Standing format preferences for all work within a Project are exactly what Project-level custom instructions are designed to capture."
+      "explanation": "Standing format preferences for all work within a Project are exactly what Project-level custom instructions are designed to capture.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9a6b0788d141064e"
+      }
     },
     {
       "id": "associate-foundations-276",
@@ -9833,7 +10634,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "The same clarity and specificity principles that make individual prompts effective also make Project-level instructions effective."
+      "explanation": "The same clarity and specificity principles that make individual prompts effective also make Project-level instructions effective.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c4df53422e18fe62"
+      }
     },
     {
       "id": "associate-foundations-277",
@@ -10053,7 +10862,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Focused, relevant knowledge sources per Project keep responses grounded in what's actually pertinent, rather than diluted by irrelevant material."
+      "explanation": "Focused, relevant knowledge sources per Project keep responses grounded in what's actually pertinent, rather than diluted by irrelevant material.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "33a4e68471b019ee"
+      }
     },
     {
       "id": "associate-foundations-283",
@@ -10159,7 +10976,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Multiple genuinely relevant reference documents can all be added as knowledge sources to support the Project's actual needs."
+      "explanation": "Multiple genuinely relevant reference documents can all be added as knowledge sources to support the Project's actual needs.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "146594819e708f6e"
+      }
     },
     {
       "id": "associate-foundations-286",
@@ -10189,7 +11014,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "More specific, immediate instructions for a given conversation generally take precedence over standing defaults, without erasing those defaults for other conversations."
+      "explanation": "More specific, immediate instructions for a given conversation generally take precedence over standing defaults, without erasing those defaults for other conversations.",
+      "confidence": {
+        "rag": "amber",
+        "level": "medium",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9615e4525c351797"
+      }
     },
     {
       "id": "associate-foundations-287",
@@ -10371,7 +11204,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Projects operate independently — each one's configuration applies within its own scope without cross-contaminating another Project."
+      "explanation": "Projects operate independently — each one's configuration applies within its own scope without cross-contaminating another Project.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f97ad9a35945d98b"
+      }
     },
     {
       "id": "associate-foundations-292",
@@ -10401,7 +11242,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Shared configuration is what actually produces consistent output and shared context across a team working on the same body of work."
+      "explanation": "Shared configuration is what actually produces consistent output and shared context across a team working on the same body of work.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "61ef6dd8c75a6252"
+      }
     },
     {
       "id": "associate-foundations-293",
@@ -10431,7 +11280,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A shared Project with consistent instructions and knowledge sources is the direct way to keep an entire team aligned on guidelines and messaging."
+      "explanation": "A shared Project with consistent instructions and knowledge sources is the direct way to keep an entire team aligned on guidelines and messaging.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "41bfb13518a3d8b4"
+      }
     },
     {
       "id": "associate-foundations-294",
@@ -10499,7 +11356,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Distinct clients with different requirements are well-served by separate, appropriately-scoped Projects rather than one undifferentiated shared setup or excessive fragmentation."
+      "explanation": "Distinct clients with different requirements are well-served by separate, appropriately-scoped Projects rather than one undifferentiated shared setup or excessive fragmentation.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9e324f27b5c2750c"
+      }
     },
     {
       "id": "associate-foundations-296",
@@ -10567,7 +11432,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Sensitive personal, financial, health, or confidential information should be evaluated against organizational policy and applicable legal obligations before being shared in any AI tool."
+      "explanation": "Sensitive personal, financial, health, or confidential information should be evaluated against organizational policy and applicable legal obligations before being shared in any AI tool.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "213ae3033ce0a983"
+      }
     },
     {
       "id": "associate-foundations-298",
@@ -10711,7 +11584,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Sharing only what's necessary for the task (data minimization) is a core responsible-use practice for handling sensitive information."
+      "explanation": "Sharing only what's necessary for the task (data minimization) is a core responsible-use practice for handling sensitive information.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "08941203693bfa8d"
+      }
     },
     {
       "id": "associate-foundations-302",
@@ -10817,7 +11698,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Policy and regulatory compliance is the directly relevant question — message length, interest level, and response speed are irrelevant to the privacy consideration."
+      "explanation": "Policy and regulatory compliance is the directly relevant question — message length, interest level, and response speed are irrelevant to the privacy consideration.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3224bbdb742e73b7"
+      }
     },
     {
       "id": "associate-foundations-305",
@@ -10847,7 +11736,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Regulated industries carry specific compliance obligations that must inform decisions about what data can appropriately be used with any tool, including AI."
+      "explanation": "Regulated industries carry specific compliance obligations that must inform decisions about what data can appropriately be used with any tool, including AI.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "58936644e9b3982d"
+      }
     },
     {
       "id": "associate-foundations-306",
@@ -10991,7 +11888,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "High-stakes personnel decisions deserve human judgment informed by broader context, not sole reliance on a single AI-generated artifact."
+      "explanation": "High-stakes personnel decisions deserve human judgment informed by broader context, not sole reliance on a single AI-generated artifact.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "19cb2cf8cb72c05c"
+      }
     },
     {
       "id": "associate-foundations-310",
@@ -11059,7 +11964,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Human review before sending sensitive, relationship-affecting communications is a proportionate responsible-use practice, distinct from either full automation or blanket avoidance."
+      "explanation": "Human review before sending sensitive, relationship-affecting communications is a proportionate responsible-use practice, distinct from either full automation or blanket avoidance.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "be986f00e88533f3"
+      }
     },
     {
       "id": "associate-foundations-312",
@@ -11469,7 +12382,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "This type of content is generally considered low risk based on its potential consequences if something in it is wrong, which should inform how much review it receives."
+      "explanation": "This type of content is generally considered low risk based on its potential consequences if something in it is wrong, which should inform how much review it receives.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "85db150e24f902d4"
+      }
     },
     {
       "id": "associate-foundations-323",
@@ -11499,7 +12420,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "This type of content is generally considered high risk based on its potential consequences if something in it is wrong, which should inform how much review it receives."
+      "explanation": "This type of content is generally considered high risk based on its potential consequences if something in it is wrong, which should inform how much review it receives.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "80bca2c622bb5ee3"
+      }
     },
     {
       "id": "associate-foundations-324",
@@ -11795,7 +12724,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A well-designed policy establishes consistent, clear expectations tailored to the organization's actual risk profile and needs — not blanket prohibition or undifferentiated uniformity."
+      "explanation": "A well-designed policy establishes consistent, clear expectations tailored to the organization's actual risk profile and needs — not blanket prohibition or undifferentiated uniformity.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2bfdf86f6e0f1fb6"
+      }
     },
     {
       "id": "associate-foundations-332",
@@ -11863,7 +12800,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Defining approved use cases is a practical risk-management tool that still allows productive use within clear, sensible boundaries."
+      "explanation": "Defining approved use cases is a practical risk-management tool that still allows productive use within clear, sensible boundaries.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b2ea9654da1b23c0"
+      }
     },
     {
       "id": "associate-foundations-334",
@@ -11969,7 +12914,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Following the current, updated policy — not the outdated version — is the expected standard once a policy has been revised."
+      "explanation": "Following the current, updated policy — not the outdated version — is the expected standard once a policy has been revised.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c48bdc33e5109df8"
+      }
     },
     {
       "id": "associate-foundations-337",
@@ -11999,7 +12952,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Abrupt mid-sentence cutoffs are the classic symptom of hitting an output length limit, not a malfunction."
+      "explanation": "Abrupt mid-sentence cutoffs are the classic symptom of hitting an output length limit, not a malfunction.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "543f2b0463518a4b"
+      }
     },
     {
       "id": "associate-foundations-338",
@@ -12029,7 +12990,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Simply asking Claude to continue from where it stopped is the direct, practical fix for a length-limited cutoff."
+      "explanation": "Simply asking Claude to continue from where it stopped is the direct, practical fix for a length-limited cutoff.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d142a6a84b7e7d8f"
+      }
     },
     {
       "id": "associate-foundations-339",
@@ -12097,7 +13066,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Sectioning a very large document into manageable pieces is a practical, effective way to avoid repeated truncation on any single response."
+      "explanation": "Sectioning a very large document into manageable pieces is a practical, effective way to avoid repeated truncation on any single response.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "585ce8856dc44f60"
+      }
     },
     {
       "id": "associate-foundations-341",
@@ -12203,7 +13180,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Very large documents can exceed practical context limits, making chunking into smaller sections a necessary workaround."
+      "explanation": "Very large documents can exceed practical context limits, making chunking into smaller sections a necessary workaround.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5d5da654f9ef9e93"
+      }
     },
     {
       "id": "associate-foundations-344",
@@ -12233,7 +13218,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Splitting by logical sections and synthesizing afterward is a sound way to handle documents that exceed single-pass processing limits."
+      "explanation": "Splitting by logical sections and synthesizing afterward is a sound way to handle documents that exceed single-pass processing limits.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6480b163a73e4e1c"
+      }
     },
     {
       "id": "associate-foundations-345",
@@ -12263,7 +13256,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Splitting at logical boundaries preserves the coherence of each chunk, making analysis more reliable than arbitrary or mid-sentence splits."
+      "explanation": "Splitting at logical boundaries preserves the coherence of each chunk, making analysis more reliable than arbitrary or mid-sentence splits.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "54fccf5b0627dc3c"
+      }
     },
     {
       "id": "associate-foundations-346",
@@ -12293,7 +13294,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A final synthesis step ties the individual chunk-level analyses back together into one coherent overall result."
+      "explanation": "A final synthesis step ties the individual chunk-level analyses back together into one coherent overall result.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "895d6b1b03110e0b"
+      }
     },
     {
       "id": "associate-foundations-347",
@@ -12592,7 +13601,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A concrete example of the target formatting style gives a clear, checkable target for the reformatted output to match."
+      "explanation": "A concrete example of the target formatting style gives a clear, checkable target for the reformatted output to match.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fc0cc26002196e8e"
+      }
     },
     {
       "id": "associate-foundations-355",
@@ -12851,7 +13868,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Reviewing the full set of instructions together — especially when adding new ones — helps catch conflicts before they accumulate unnoticed."
+      "explanation": "Reviewing the full set of instructions together — especially when adding new ones — helps catch conflicts before they accumulate unnoticed.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1c5d4fcaa2a8fa01"
+      }
     },
     {
       "id": "associate-foundations-362",
@@ -12881,7 +13906,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Moderate-complexity, high-volume summarization is a good fit for a faster, lighter tier rather than defaulting to the most expensive option."
+      "explanation": "Moderate-complexity, high-volume summarization is a good fit for a faster, lighter tier rather than defaulting to the most expensive option.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f964a9fea3b3fcc7"
+      }
     },
     {
       "id": "associate-foundations-363",
@@ -13116,7 +14149,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A hands-on, usable tool for colleagues is best delivered as an interactive artifact rather than a conceptual text description."
+      "explanation": "A hands-on, usable tool for colleagues is best delivered as an interactive artifact rather than a conceptual text description.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3d2912e4d25a92cc"
+      }
     },
     {
       "id": "associate-foundations-369",
@@ -13260,7 +14301,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Whether the work will benefit from persistent, shared context across future conversations is the substantive question for choosing a Project versus a one-off chat."
+      "explanation": "Whether the work will benefit from persistent, shared context across future conversations is the substantive question for choosing a Project versus a one-off chat.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "125dbcfa8c569b38"
+      }
     },
     {
       "id": "associate-foundations-373",
@@ -13480,7 +14529,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "The value of centralized administration and consistent policy grows as coordination needs increase with organizational scale."
+      "explanation": "The value of centralized administration and consistent policy grows as coordination needs increase with organizational scale.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4c87f3c56ae4caec"
+      }
     },
     {
       "id": "associate-foundations-379",
@@ -13548,7 +14605,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Deployment choice can reasonably scale with actual coordination and governance needs, which are typically lower for a very small team."
+      "explanation": "Deployment choice can reasonably scale with actual coordination and governance needs, which are typically lower for a very small team.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8ff68413e9652a99"
+      }
     },
     {
       "id": "associate-foundations-381",
@@ -13578,7 +14643,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Weighing actual collaboration needs, administrative requirements, and usage volume is the substantive basis for a sound plan/deployment decision."
+      "explanation": "Weighing actual collaboration needs, administrative requirements, and usage volume is the substantive basis for a sound plan/deployment decision.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8d5a17f888f884c4"
+      }
     },
     {
       "id": "associate-foundations-382",
@@ -13608,7 +14681,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "When neither currency of information nor persistent context is actually needed, plain conversation is the simplest, most proportionate choice."
+      "explanation": "When neither currency of information nor persistent context is actually needed, plain conversation is the simplest, most proportionate choice.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7050a0b766644715"
+      }
     },
     {
       "id": "associate-foundations-383",
@@ -13676,7 +14757,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Specifying the destination's exact requirements up front avoids a recurring manual reordering step downstream."
+      "explanation": "Specifying the destination's exact requirements up front avoids a recurring manual reordering step downstream.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "641390c3f78c1fc7"
+      }
     },
     {
       "id": "associate-foundations-385",
@@ -13706,7 +14795,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Documenting and reusing a consistent format specification avoids re-deriving requirements from scratch on every run of a recurring workflow step."
+      "explanation": "Documenting and reusing a consistent format specification avoids re-deriving requirements from scratch on every run of a recurring workflow step.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d6aa6eb52c640c88"
+      }
     },
     {
       "id": "associate-foundations-386",
@@ -13736,7 +14833,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Matching format to how the output will actually be consumed — spoken delivery favors linear prose over visual structures like tables — avoids a mismatch."
+      "explanation": "Matching format to how the output will actually be consumed — spoken delivery favors linear prose over visual structures like tables — avoids a mismatch.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b905feb6a8d3ef5d"
+      }
     },
     {
       "id": "associate-foundations-387",
@@ -13842,7 +14947,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A concise, curated summary gives the new conversation what it actually needs without the overhead of the full historical record."
+      "explanation": "A concise, curated summary gives the new conversation what it actually needs without the overhead of the full historical record.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d23d564562594bfa"
+      }
     },
     {
       "id": "associate-foundations-390",
@@ -14252,7 +15365,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Because Project instructions apply broadly and repeatedly, getting them right at setup time pays off across every future conversation in that Project."
+      "explanation": "Because Project instructions apply broadly and repeatedly, getting them right at setup time pays off across every future conversation in that Project.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e01096afc488390c"
+      }
     },
     {
       "id": "associate-foundations-401",
@@ -14358,7 +15479,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A current, accessible overview of the Project's setup helps new team members use it correctly without unnecessary trial and error."
+      "explanation": "A current, accessible overview of the Project's setup helps new team members use it correctly without unnecessary trial and error.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6ccb541dc2f21c9a"
+      }
     },
     {
       "id": "associate-foundations-404",
@@ -14388,7 +15517,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A significant shift in purpose calls for a deliberate configuration review and update, rather than leaving stale settings in place."
+      "explanation": "A significant shift in purpose calls for a deliberate configuration review and update, rather than leaving stale settings in place.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5155ee0505fa693d"
+      }
     },
     {
       "id": "associate-foundations-405",
@@ -14418,7 +15555,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Custom instructions can reasonably combine multiple clear, complementary standing requirements like tone and structure together."
+      "explanation": "Custom instructions can reasonably combine multiple clear, complementary standing requirements like tone and structure together.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "de5f7a432f003e84"
+      }
     },
     {
       "id": "associate-foundations-406",
@@ -14562,7 +15707,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A quick verification that the new material is actually being used appropriately confirms the configuration is working as intended."
+      "explanation": "A quick verification that the new material is actually being used appropriately confirms the configuration is working as intended.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "30f92096e845bb01"
+      }
     },
     {
       "id": "associate-foundations-410",
@@ -14592,7 +15745,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Removing unnecessary sensitive material that doesn't serve the Project's actual purpose reduces avoidable exposure — a straightforward data-minimization practice."
+      "explanation": "Removing unnecessary sensitive material that doesn't serve the Project's actual purpose reduces avoidable exposure — a straightforward data-minimization practice.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "103921c28823935f"
+      }
     },
     {
       "id": "associate-foundations-411",
@@ -14660,7 +15821,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A knowledge source added as an upload is a snapshot at that point in time — understanding the need to refresh it is important for a frequently-changing source."
+      "explanation": "A knowledge source added as an upload is a snapshot at that point in time — understanding the need to refresh it is important for a frequently-changing source.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9d74298dc8fb315b"
+      }
     },
     {
       "id": "associate-foundations-413",
@@ -14690,7 +15859,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "Relevance to the Project's actual purpose — not sheer volume or file size — is the sound basis for scoping knowledge sources."
+      "explanation": "Relevance to the Project's actual purpose — not sheer volume or file size — is the sound basis for scoping knowledge sources.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5658d7479391a713"
+      }
     },
     {
       "id": "associate-foundations-414",
@@ -14720,7 +15897,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Tracing the outdated reference back to its source material and updating or removing that source is the direct, appropriate fix."
+      "explanation": "Tracing the outdated reference back to its source material and updating or removing that source is the direct, appropriate fix.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "12b008fbc9ef567d"
+      }
     },
     {
       "id": "associate-foundations-415",
@@ -14788,7 +15973,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A clearly stated, request-specific exception is the proportionate way to handle a one-off deviation without altering the standing default."
+      "explanation": "A clearly stated, request-specific exception is the proportionate way to handle a one-off deviation without altering the standing default.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b0b7b556d05fd1da"
+      }
     },
     {
       "id": "associate-foundations-417",
@@ -14856,7 +16049,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Confirming the actual scope where a rule was set (Project-wide vs. one conversation) is the direct way to diagnose apparent inconsistency."
+      "explanation": "Confirming the actual scope where a rule was set (Project-wide vs. one conversation) is the direct way to diagnose apparent inconsistency.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "eebf50ce744c4841"
+      }
     },
     {
       "id": "associate-foundations-419",
@@ -14924,7 +16125,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A genuinely permanent change to standing behavior requires updating the Project-level instructions themselves, not just a one-off in-conversation statement."
+      "explanation": "A genuinely permanent change to standing behavior requires updating the Project-level instructions themselves, not just a one-off in-conversation statement.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6c9b975ff6588fbf"
+      }
     },
     {
       "id": "associate-foundations-421",
@@ -14954,7 +16163,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "As distinct contexts emerge across sub-teams/clients, splitting into appropriately scoped separate Projects better serves each group's specific needs."
+      "explanation": "As distinct contexts emerge across sub-teams/clients, splitting into appropriately scoped separate Projects better serves each group's specific needs.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6e4e2920a38e10e6"
+      }
     },
     {
       "id": "associate-foundations-422",
@@ -15022,7 +16239,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "A single shared Project tailored to the initiative gives the cross-functional team the consistent context it needs."
+      "explanation": "A single shared Project tailored to the initiative gives the cross-functional team the consistent context it needs.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f4b7f2eec3143ffc"
+      }
     },
     {
       "id": "associate-foundations-424",
@@ -15166,7 +16391,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Verifying against the actual organizational classification (or asking) is more reliable than assuming or guessing about a document's sensitivity."
+      "explanation": "Verifying against the actual organizational classification (or asking) is more reliable than assuming or guessing about a document's sensitivity.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5a6d0130211e53ef"
+      }
     },
     {
       "id": "associate-foundations-428",
@@ -15272,7 +16505,15 @@
         "B"
       ],
       "multi": false,
-      "explanation": "Preferring anonymized/synthetic data when it serves the purpose equally well is a sound, low-cost privacy practice."
+      "explanation": "Preferring anonymized/synthetic data when it serves the purpose equally well is a sound, low-cost privacy practice.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d988d82fc743e01a"
+      }
     },
     {
       "id": "associate-foundations-431",
@@ -15492,7 +16733,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Signs of a potential personal crisis call for escalation to appropriate trained personnel or processes, not a purely transactional AI-drafted response."
+      "explanation": "Signs of a potential personal crisis call for escalation to appropriate trained personnel or processes, not a purely transactional AI-drafted response.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "67d4426a8b909939"
+      }
     },
     {
       "id": "associate-foundations-437",
@@ -15674,7 +16923,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Because actual risk depends on evolving use and audience, treating categorization as an ongoing check (not a permanent one-time label) is more accurate."
+      "explanation": "Because actual risk depends on evolving use and audience, treating categorization as an ongoing check (not a permanent one-time label) is more accurate.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9ac14813ee293e64"
+      }
     },
     {
       "id": "associate-foundations-442",
@@ -15704,7 +16961,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "A meaningful change in audience/use (internal to external) warrants re-categorizing risk and applying appropriately elevated review before publication."
+      "explanation": "A meaningful change in audience/use (internal to external) warrants re-categorizing risk and applying appropriately elevated review before publication.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c3e44bf5d4b170ae"
+      }
     },
     {
       "id": "associate-foundations-443",
@@ -15848,7 +17113,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Proactively restructuring a recurring large request into planned sections is a more durable fix than repeatedly reacting to truncation after the fact."
+      "explanation": "Proactively restructuring a recurring large request into planned sections is a more durable fix than repeatedly reacting to truncation after the fact.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2e21c4ede263bc16"
+      }
     },
     {
       "id": "associate-foundations-447",
@@ -15992,7 +17265,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A dedicated synthesis step that explicitly pulls together relevant details from different chunks is the practical way to make cross-chunk comparisons."
+      "explanation": "A dedicated synthesis step that explicitly pulls together relevant details from different chunks is the practical way to make cross-chunk comparisons.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9d963cb6a0e50095"
+      }
     },
     {
       "id": "associate-foundations-451",
@@ -16022,7 +17303,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Balancing practical size limits against preserving coherent sections is the sound basis for choosing chunk boundaries."
+      "explanation": "Balancing practical size limits against preserving coherent sections is the sound basis for choosing chunk boundaries.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4deaa048c0be3f6d"
+      }
     },
     {
       "id": "associate-foundations-452",
@@ -16356,7 +17645,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A brief consistency check before adding new standing instructions is a practical way to prevent conflicts from accumulating in the first place."
+      "explanation": "A brief consistency check before adding new standing instructions is a practical way to prevent conflicts from accumulating in the first place.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c53ec2667fddd3e0"
+      }
     },
     {
       "id": "associate-foundations-461",
@@ -16386,7 +17683,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "An empirical head-to-head comparison showing equivalent quality is exactly the evidence needed to justify standardizing on the more cost-effective tier for that task."
+      "explanation": "An empirical head-to-head comparison showing equivalent quality is exactly the evidence needed to justify standardizing on the more cost-effective tier for that task.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "55a7819d1a63ed4a"
+      }
     },
     {
       "id": "associate-foundations-462",
@@ -16530,7 +17835,15 @@
         "D"
       ],
       "multi": false,
-      "explanation": "A shared baseline at the Project level, with room for individual, conversation-specific adjustments, reasonably balances consistency and personal preference."
+      "explanation": "A shared baseline at the Project level, with room for individual, conversation-specific adjustments, reasonably balances consistency and personal preference.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e3396d38b932bd7f"
+      }
     },
     {
       "id": "associate-foundations-466",
@@ -16560,7 +17873,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Clarity, specificity, and genuine standing relevance are the practical quality markers for custom instructions, mirroring good prompt-writing principles."
+      "explanation": "Clarity, specificity, and genuine standing relevance are the practical quality markers for custom instructions, mirroring good prompt-writing principles.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c1f4883bad808df3"
+      }
     },
     {
       "id": "associate-foundations-467",
@@ -16590,7 +17911,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Periodic pruning of outdated or irrelevant knowledge sources keeps a Project's grounding material relevant and focused over time."
+      "explanation": "Periodic pruning of outdated or irrelevant knowledge sources keeps a Project's grounding material relevant and focused over time.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "dc1f0f2de598318b"
+      }
     },
     {
       "id": "associate-foundations-468",
@@ -16620,7 +17949,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Clarity and organization affect how reliably relevant information can actually be drawn from a document, not just whether the topic is a match."
+      "explanation": "Clarity and organization affect how reliably relevant information can actually be drawn from a document, not just whether the topic is a match.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "229233a34444afd1"
+      }
     },
     {
       "id": "associate-foundations-469",
@@ -16688,7 +18025,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Matching instruction placement to its intended breadth of application — broad and recurring at the Project level, narrow and one-off within a conversation — is the sound rule of thumb."
+      "explanation": "Matching instruction placement to its intended breadth of application — broad and recurring at the Project level, narrow and one-off within a conversation — is the sound rule of thumb.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f6e67ab0db1d5dc9"
+      }
     },
     {
       "id": "associate-foundations-471",
@@ -16946,7 +18291,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Since the length pattern is known and predictable for this recurring report, planning a sectioned approach from the outset is more durable than repeatedly reacting after each truncation."
+      "explanation": "Since the length pattern is known and predictable for this recurring report, planning a sectioned approach from the outset is more durable than repeatedly reacting after each truncation.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0dde973b2ded3e8f"
+      }
     },
     {
       "id": "associate-foundations-478",
@@ -17014,7 +18367,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A reusable, structure-aware chunking approach is more efficient for recurring, similarly-structured documents than reinventing the strategy each time."
+      "explanation": "A reusable, structure-aware chunking approach is more efficient for recurring, similarly-structured documents than reinventing the strategy each time.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a3347e5b16331da3"
+      }
     },
     {
       "id": "associate-foundations-480",
@@ -17158,7 +18519,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "A direct request to fix the heading hierarchy into a logical, consistent structure is the straightforward fix for this kind of formatting problem."
+      "explanation": "A direct request to fix the heading hierarchy into a logical, consistent structure is the straightforward fix for this kind of formatting problem.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "697d14899df11e6a"
+      }
     },
     {
       "id": "associate-foundations-484",
@@ -17264,7 +18633,15 @@
         "A"
       ],
       "multi": false,
-      "explanation": "Noting the exact stopping point makes it easy to verify the continuation picks up cleanly, without gaps or duplication at the seam."
+      "explanation": "Noting the exact stopping point makes it easy to verify the continuation picks up cleanly, without gaps or duplication at the seam.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8e3db544c50b83ae"
+      }
     },
     {
       "id": "associate-foundations-487",
@@ -17294,7 +18671,15 @@
         "C"
       ],
       "multi": false,
-      "explanation": "Deliberate noticing, resolving, and — where warranted — updating the standing default is the sound general pattern for handling instruction conflicts across scopes."
+      "explanation": "Deliberate noticing, resolving, and — where warranted — updating the standing default is the sound general pattern for handling instruction conflicts across scopes.",
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9ada2e31bf4c901b"
+      }
     }
   ]
 }

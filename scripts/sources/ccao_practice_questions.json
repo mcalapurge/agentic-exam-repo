@@ -204,7 +204,15 @@
       },
       "correct": ["B"],
       "explanation": "Role, context, task, constraint, and format are the standard building blocks taught for effective business prompting.",
-      "source_id": 7
+      "source_id": 7,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "25913050e5aef287"
+      }
     },
     {
       "id": 8,
@@ -277,7 +285,15 @@
       },
       "correct": ["D"],
       "explanation": "Constraints are user-specified limits — length, tone, style, things to include or avoid — that shape the output.",
-      "source_id": 10
+      "source_id": 10,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8e2cd8d23662f542"
+      }
     },
     {
       "id": 11,
@@ -294,7 +310,15 @@
       },
       "correct": ["B"],
       "explanation": "Specifying the exact output format is the most direct way to reliably get a structured list rather than free-flowing prose.",
-      "source_id": 11
+      "source_id": 11,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "15aff895fa5dcabc"
+      }
     },
     {
       "id": 12,
@@ -451,7 +475,15 @@
       },
       "correct": ["D"],
       "explanation": "Font is a rendering detail outside Claude's control for a text response; audience, tone, length, and source content actually shape a useful draft.",
-      "source_id": 17
+      "source_id": 17,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e0133a5223f51aad"
+      }
     },
     {
       "id": 18,
@@ -553,7 +585,15 @@
       },
       "correct": ["D"],
       "explanation": "Outlining phases first, then filling in each phase, is a natural staged decomposition that keeps each step reviewable.",
-      "source_id": 21
+      "source_id": 21,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e850a69f6806aaba"
+      }
     },
     {
       "id": 22,
@@ -570,7 +610,15 @@
       },
       "correct": ["D"],
       "explanation": "Validating the outline before drafting prevents structural problems from propagating into a much larger piece of work.",
-      "source_id": 22
+      "source_id": 22,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3301b7175e762775"
+      }
     },
     {
       "id": 23,
@@ -612,7 +660,15 @@
       },
       "correct": ["A"],
       "explanation": "Sequencing research, then drafting, then formatting lets each stage build on a validated version of the previous one.",
-      "source_id": 24
+      "source_id": 24,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0f329bedc719183f"
+      }
     },
     {
       "id": 25,
@@ -629,7 +685,15 @@
       },
       "correct": ["C"],
       "explanation": "Decomposition's value comes specifically from the review-and-correct opportunity between steps; skipping review forfeits that benefit.",
-      "source_id": 25
+      "source_id": 25,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "cbaa0eedb75476fb"
+      }
     },
     {
       "id": 26,
@@ -646,7 +710,15 @@
       },
       "correct": ["A"],
       "explanation": "Simple, low-stakes, single-part requests don't have the dependency chains that make decomposition valuable.",
-      "source_id": 26
+      "source_id": 26,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6df8eedf9e275db3"
+      }
     },
     {
       "id": 27,
@@ -663,7 +735,15 @@
       },
       "correct": ["A"],
       "explanation": "Bundling several substantial, loosely related deliverables into one request makes it harder to isolate and fix problems in any single component.",
-      "source_id": 27
+      "source_id": 27,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "14c7e0859749f5f4"
+      }
     },
     {
       "id": 28,
@@ -680,7 +760,15 @@
       },
       "correct": ["B"],
       "explanation": "Specific, targeted feedback about what's actually wrong is far more effective than vague dissatisfaction or blind repetition.",
-      "source_id": 28
+      "source_id": 28,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4bc6841758393b40"
+      }
     },
     {
       "id": 29,
@@ -778,7 +866,15 @@
       },
       "correct": ["A"],
       "explanation": "'This isn't quite right' gives no specific, actionable direction, unlike the other options.",
-      "source_id": 32
+      "source_id": 32,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "376fd6f7a4bcadd7"
+      }
     },
     {
       "id": 33,
@@ -976,7 +1072,15 @@
       },
       "correct": ["A"],
       "explanation": "Audience, tone, and structural/genre conventions most directly shape whether a draft reads appropriately for its purpose.",
-      "source_id": 40
+      "source_id": 40,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d6cf19b2997be4d9"
+      }
     },
     {
       "id": 41,
@@ -993,7 +1097,15 @@
       },
       "correct": ["B"],
       "explanation": "Analytical tasks benefit from specific, targeted questions rather than an open-ended 'analyze this' with no direction.",
-      "source_id": 41
+      "source_id": 41,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7fd5b3591bd89599"
+      }
     },
     {
       "id": 42,
@@ -1391,7 +1503,15 @@
       },
       "correct": ["D"],
       "explanation": "A 'reimagine from scratch' framing removes the anchoring effect of the existing process, surfacing more genuinely fresh ideas.",
-      "source_id": 57
+      "source_id": 57,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b83a1190002cf0f3"
+      }
     },
     {
       "id": 58,
@@ -1436,7 +1556,15 @@
       },
       "correct": ["B"],
       "explanation": "A concrete example removes ambiguity a written description alone might leave, improving consistency.",
-      "source_id": 59
+      "source_id": 59,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf9ad6129f65c51d"
+      }
     },
     {
       "id": 60,
@@ -1509,7 +1637,15 @@
       },
       "correct": ["C"],
       "explanation": "A useful example demonstrates transferable qualities rather than requiring an identical topic.",
-      "source_id": 62
+      "source_id": 62,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e926f7452df5f31c"
+      }
     },
     {
       "id": 63,
@@ -1526,7 +1662,15 @@
       },
       "correct": ["B"],
       "explanation": "Reusing a validated example as a template efficiently maintains consistency across recurring deliverables.",
-      "source_id": 63
+      "source_id": 63,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "531a162789125ecb"
+      }
     },
     {
       "id": 64,
@@ -1571,7 +1715,15 @@
       },
       "correct": ["C"],
       "explanation": "Recurring tasks with existing reference material are exactly where example-driven prompting adds the most consistency value.",
-      "source_id": 65
+      "source_id": 65,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e1e00e114ecd6289"
+      }
     },
     {
       "id": 66,
@@ -1588,7 +1740,15 @@
       },
       "correct": ["D"],
       "explanation": "Explicitly framing which parts of an imperfect example are relevant avoids over-generalizing from irrelevant specifics.",
-      "source_id": 66
+      "source_id": 66,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "437d9122259e74b0"
+      }
     },
     {
       "id": 67,
@@ -1633,7 +1793,15 @@
       },
       "correct": ["B"],
       "explanation": "Explicitly naming the desired structure and column headers is the most direct way to reliably get that exact format.",
-      "source_id": 68
+      "source_id": 68,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "aabd9100a0301c2d"
+      }
     },
     {
       "id": 69,
@@ -1759,7 +1927,15 @@
       },
       "correct": ["B"],
       "explanation": "Explicitly restating or persisting the exact required headers is the reliable way to enforce consistent structure.",
-      "source_id": 73
+      "source_id": 73,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f78296f1b8a3c6b1"
+      }
     },
     {
       "id": 74,
@@ -1776,7 +1952,15 @@
       },
       "correct": ["D"],
       "explanation": "Concrete, measurable constraints reduce ambiguity compared to subjective terms, improving reliability of the result.",
-      "source_id": 74
+      "source_id": 74,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "63fb37231ec2bf62"
+      }
     },
     {
       "id": 75,
@@ -1793,7 +1977,15 @@
       },
       "correct": ["D"],
       "explanation": "Explicitly requesting the exact labeled sections up front is more direct than correcting after the fact.",
-      "source_id": 75
+      "source_id": 75,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8b431b42a2637e18"
+      }
     },
     {
       "id": 76,
@@ -1838,7 +2030,15 @@
       },
       "correct": ["C"],
       "explanation": "Specificity makes a fabricated number sound more credible, not more accurate — uncited figures should be verified before use.",
-      "source_id": 77
+      "source_id": 77,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fbb97031b184b52f"
+      }
     },
     {
       "id": 78,
@@ -1908,7 +2108,15 @@
       },
       "correct": ["B"],
       "explanation": "Ironically, unsourced but highly specific claims deserve more scrutiny than appropriately hedged ones, since specificity can create false confidence.",
-      "source_id": 80
+      "source_id": 80,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "57615eade7e7121e"
+      }
     },
     {
       "id": 81,
@@ -1953,7 +2161,15 @@
       },
       "correct": ["D"],
       "explanation": "Independent verification — not the confidence or plausibility of the phrasing — is the reliable safeguard against hallucinated facts.",
-      "source_id": 82
+      "source_id": 82,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2cc9bdb41b4d99f6"
+      }
     },
     {
       "id": 83,
@@ -1970,7 +2186,15 @@
       },
       "correct": ["C"],
       "explanation": "Requests for precise data in low-availability, narrow domains are where models are most likely to fill gaps with plausible-sounding fabrication.",
-      "source_id": 83
+      "source_id": 83,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5c2a958ffb201eb6"
+      }
     },
     {
       "id": 84,
@@ -1987,7 +2211,15 @@
       },
       "correct": ["C"],
       "explanation": "Fluency and confidence are stylistic properties, not accuracy signals — hallucinations frequently share both.",
-      "source_id": 84
+      "source_id": 84,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ff559d11b59b25e7"
+      }
     },
     {
       "id": 85,
@@ -2004,7 +2236,15 @@
       },
       "correct": ["D"],
       "explanation": "Quotation marks don't guarantee authenticity — attributed quotes should be checked against a real source before public use.",
-      "source_id": 85
+      "source_id": 85,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8eddecdff5fbabbf"
+      }
     },
     {
       "id": 86,
@@ -2021,7 +2261,15 @@
       },
       "correct": ["B"],
       "explanation": "An appropriately hedged 'I don't know' is more trustworthy than a fabricated specific answer, and should be respected rather than pressured away.",
-      "source_id": 86
+      "source_id": 86,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4d1e69c12320783c"
+      }
     },
     {
       "id": 87,
@@ -2094,7 +2342,15 @@
       },
       "correct": ["A"],
       "explanation": "Independent cross-checking of specific claims is the direct, reliable mitigation — tone, vocabulary, and length are not accuracy signals.",
-      "source_id": 89
+      "source_id": 89,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5b0ea77cf301752a"
+      }
     },
     {
       "id": 90,
@@ -2164,7 +2420,15 @@
       },
       "correct": ["B"],
       "explanation": "Risk-proportional verification — more scrutiny for higher-stakes claims — is a practical, efficient approach to fact-checking AI output.",
-      "source_id": 92
+      "source_id": 92,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "99395cd2990fa2a6"
+      }
     },
     {
       "id": 93,
@@ -2181,7 +2445,15 @@
       },
       "correct": ["B"],
       "explanation": "Even with document access, spot-checking specific pinpoint citations is a cheap, worthwhile verification step before relying on them.",
-      "source_id": 93
+      "source_id": 93,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "13db53fef13ff70f"
+      }
     },
     {
       "id": 94,
@@ -2277,7 +2549,15 @@
       },
       "correct": ["B"],
       "explanation": "Checking the actual regulatory text or an official source is the direct way to confirm a legal/regulatory claim.",
-      "source_id": 97
+      "source_id": 97,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1ff9f9a9898eb3ab"
+      }
     },
     {
       "id": 98,
@@ -2294,7 +2574,15 @@
       },
       "correct": ["D"],
       "explanation": "Directly checking the named source document is the concrete verification step — an attribution alone isn't verification.",
-      "source_id": 98
+      "source_id": 98,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3e7049dfa00679b6"
+      }
     },
     {
       "id": 99,
@@ -2311,7 +2599,15 @@
       },
       "correct": ["D"],
       "explanation": "Each layer of summarization is a chance for error or distortion to be introduced, making the primary source the more reliable check.",
-      "source_id": 99
+      "source_id": 99,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d7fe07ea4503950b"
+      }
     },
     {
       "id": 100,
@@ -2378,7 +2674,15 @@
       },
       "correct": ["D"],
       "explanation": "The official government/legislative record is the authoritative primary source for a law's effective date.",
-      "source_id": 102
+      "source_id": 102,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8a1386c330efdcdb"
+      }
     },
     {
       "id": 103,
@@ -2420,7 +2724,15 @@
       },
       "correct": ["A"],
       "explanation": "Spot-checking key claims against the actual source passages is the practical, reliable way to validate a summary.",
-      "source_id": 104
+      "source_id": 104,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "84304fa4b2344a74"
+      }
     },
     {
       "id": 105,
@@ -2462,7 +2774,15 @@
       },
       "correct": ["A"],
       "explanation": "When a verified primary source contradicts an AI claim, the primary source should take precedence in the final deliverable.",
-      "source_id": 106
+      "source_id": 106,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "15b63c218367e85e"
+      }
     },
     {
       "id": 107,
@@ -2479,7 +2799,15 @@
       },
       "correct": ["A"],
       "explanation": "The company's own official filing or earnings release is the authoritative primary source for its reported revenue.",
-      "source_id": 107
+      "source_id": 107,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c2d556c6848e5e8b"
+      }
     },
     {
       "id": 108,
@@ -2596,7 +2924,15 @@
       },
       "correct": ["B"],
       "explanation": "The competitor's own official documentation is the authoritative primary source for claims about their product's actual features.",
-      "source_id": 112
+      "source_id": 112,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6b71b28268c55d20"
+      }
     },
     {
       "id": 113,
@@ -3013,7 +3349,15 @@
       },
       "correct": ["B"],
       "explanation": "High-stakes domains where errors cause real harm — medical, legal, financial, safety — are exactly where SME review is expected.",
-      "source_id": 129
+      "source_id": 129,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "81743e8ab63a8ceb"
+      }
     },
     {
       "id": 130,
@@ -3030,7 +3374,15 @@
       },
       "correct": ["A"],
       "explanation": "External contract language carries legal risk and requires qualified legal review before being sent, regardless of drafting quality.",
-      "source_id": 130
+      "source_id": 130,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "203efe18b7e1a137"
+      }
     },
     {
       "id": 131,
@@ -3097,7 +3449,15 @@
       },
       "correct": ["B"],
       "explanation": "Risk-based triage — based on the real-world consequences of an error — is the sound way to decide where SME review is warranted.",
-      "source_id": 133
+      "source_id": 133,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5e53791953a8cbb0"
+      }
     },
     {
       "id": 134,
@@ -3139,7 +3499,15 @@
       },
       "correct": ["D"],
       "explanation": "Sign-off requires genuine, relevant expertise — general confidence or availability doesn't substitute for actual qualification.",
-      "source_id": 135
+      "source_id": 135,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "baa8685abc04639f"
+      }
     },
     {
       "id": 136,
@@ -3281,7 +3649,15 @@
       },
       "correct": ["D"],
       "explanation": "Clear, explicit policy criteria for mandatory review help ensure consistent, appropriate handling of high-stakes content across an organization.",
-      "source_id": 141
+      "source_id": 141,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "227b5001ff1d0d4c"
+      }
     },
     {
       "id": 142,
@@ -3473,7 +3849,15 @@
       },
       "correct": ["C"],
       "explanation": "Content meant to be revisited and edited over time is better served by a persistent, standalone document than a one-off inline reply.",
-      "source_id": 149
+      "source_id": 149,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0f8a56ce591fab1e"
+      }
     },
     {
       "id": 150,
@@ -3540,7 +3924,15 @@
       },
       "correct": ["A"],
       "explanation": "Downstream tools generally need consistent, structured fields to process data reliably — prose requires manual extraction first.",
-      "source_id": 152
+      "source_id": 152,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "62a4547eb16efaae"
+      }
     },
     {
       "id": 153,
@@ -3557,7 +3949,15 @@
       },
       "correct": ["A"],
       "explanation": "Matching format weight to the request's actual scope avoids over-engineering a simple conversational ask.",
-      "source_id": 153
+      "source_id": 153,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f98e65a16ceb11c8"
+      }
     },
     {
       "id": 154,
@@ -4036,7 +4436,15 @@
       },
       "correct": ["A"],
       "explanation": "Neither phrasing style is a reliable accuracy signal on its own — both claims require the same independent verification.",
-      "source_id": 172
+      "source_id": 172,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b53a7e42c670a72f"
+      }
     },
     {
       "id": 173,
@@ -4153,7 +4561,15 @@
       },
       "correct": ["D"],
       "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle.",
-      "source_id": 177
+      "source_id": 177,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "229203bd9e749cc7"
+      }
     },
     {
       "id": 178,
@@ -4170,7 +4586,15 @@
       },
       "correct": ["A"],
       "explanation": "Matching model tier to task complexity — lighter/faster tiers for simple, high-volume work and more capable tiers for nuanced, high-stakes reasoning — is the core selection principle.",
-      "source_id": 178
+      "source_id": 178,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf7b02dd50c31f32"
+      }
     },
     {
       "id": 179,
@@ -4213,7 +4637,15 @@
       },
       "correct": ["C"],
       "explanation": "Simple, repetitive, high-volume classification is exactly the kind of task where a lighter tier is both sufficient and more cost-effective.",
-      "source_id": 184
+      "source_id": 184,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fcc7c8117a45d866"
+      }
     },
     {
       "id": 181,
@@ -4230,7 +4662,15 @@
       },
       "correct": ["B"],
       "explanation": "High-stakes, nuanced reasoning tasks are where investing in a more capable tier tends to pay off despite the extra cost/latency.",
-      "source_id": 185
+      "source_id": 185,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "77709cb1b4d4eb62"
+      }
     },
     {
       "id": 182,
@@ -4273,7 +4713,15 @@
       },
       "correct": ["C"],
       "explanation": "For tasks that fall between the extremes, a balanced mid-tier choice — adjusted based on observed results — is a practical starting point.",
-      "source_id": 187
+      "source_id": 187,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a69a3f5f99fe7007"
+      }
     },
     {
       "id": 184,
@@ -4316,7 +4764,15 @@
       },
       "correct": ["B"],
       "explanation": "Interface color preferences have no bearing on which model tier best fits a task's complexity, stakes, or speed/cost needs.",
-      "source_id": 189
+      "source_id": 189,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ad033b207c8a6c73"
+      }
     },
     {
       "id": 186,
@@ -4434,7 +4890,15 @@
       },
       "correct": ["A"],
       "explanation": "A web-search-capable mode/feature is specifically designed for incorporating current information beyond static training knowledge.",
-      "source_id": 194
+      "source_id": 194,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "95f6a64c31dc3733"
+      }
     },
     {
       "id": 191,
@@ -4476,7 +4940,15 @@
       },
       "correct": ["B"],
       "explanation": "Recognizing when static knowledge isn't enough and using the appropriate current-information feature is a core product-selection skill.",
-      "source_id": 196
+      "source_id": 196,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "376f1ef8d837b9f4"
+      }
     },
     {
       "id": 193,
@@ -4518,7 +4990,15 @@
       },
       "correct": ["A"],
       "explanation": "Interactive, usable tools are exactly the kind of content artifacts are designed to render and let users directly interact with.",
-      "source_id": 198
+      "source_id": 198,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1db0431c0188d995"
+      }
     },
     {
       "id": 195,
@@ -4535,7 +5015,15 @@
       },
       "correct": ["C"],
       "explanation": "A research/search-enabled mode is the product surface built specifically to bridge the gap to current, real-world developments.",
-      "source_id": 199
+      "source_id": 199,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "caf831fd0eed52b4"
+      }
     },
     {
       "id": 196,
@@ -4552,7 +5040,15 @@
       },
       "correct": ["B"],
       "explanation": "Unrelated, one-off questions don't benefit from Project-level shared context, so plain conversations are the simpler, proportionate choice.",
-      "source_id": 200
+      "source_id": 200,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "131e2ca5afbdda3c"
+      }
     },
     {
       "id": 197,
@@ -4569,7 +5065,15 @@
       },
       "correct": ["B"],
       "explanation": "Persistent knowledge sources within a Project avoid the repetitive re-uploading and re-explaining that plain conversations would require.",
-      "source_id": 201
+      "source_id": 201,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9636acc632281709"
+      }
     },
     {
       "id": 198,
@@ -4586,7 +5090,15 @@
       },
       "correct": ["C"],
       "explanation": "Substantial, reusable, editable deliverables are best served by a standalone artifact rather than a transient inline chat reply.",
-      "source_id": 202
+      "source_id": 202,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1885b5a284d97a0d"
+      }
     },
     {
       "id": 199,
@@ -4675,7 +5187,7 @@
       "topic": "Choosing the Right Feature for a Task",
       "complexity": "Application",
       "topic_difficulty": "Medium",
-      "question": "A user needs to collaborate with teammates who should all see the same shared context, files, and conversation history for an ongoing initiative. Which feature best supports this?",
+      "question": "A user needs to collaborate with teammates who should all work from the same shared instructions and reference files for an ongoing initiative. Which feature best supports this?",
       "options": {
         "A": "Individual, disconnected conversations for each team member with no shared context",
         "B": "Avoiding any collaborative features entirely",
@@ -4683,8 +5195,17 @@
         "D": "A single artifact with no underlying conversation or context"
       },
       "correct": ["C"],
-      "explanation": "Shared, persistent team context across an ongoing initiative is exactly the scenario Projects are designed to support.",
-      "source_id": 206
+      "explanation": "A shared Project gives every member the same project instructions and knowledge base, and that knowledge is used in every chat within the project. Context from individual chats is not shared unless it is added to the project knowledge.",
+      "source_id": 206,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "reworded": true,
+        "contentHash": "6a1b491392ac122e"
+      }
     },
     {
       "id": 203,
@@ -4726,7 +5247,15 @@
       },
       "correct": ["A"],
       "explanation": "When none of the specialized features' conditions apply, plain conversation is the simplest, most proportionate choice.",
-      "source_id": 208
+      "source_id": 208,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ca57b5e8eee5877b"
+      }
     },
     {
       "id": 205,
@@ -4768,7 +5297,15 @@
       },
       "correct": ["B"],
       "explanation": "Centralized oversight and consistent policy enforcement are best supported by an organization-level deployment rather than disconnected individual accounts.",
-      "source_id": 210
+      "source_id": 210,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5600e88c5cce1bfd"
+      }
     },
     {
       "id": 207,
@@ -4860,7 +5397,15 @@
       },
       "correct": ["C"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 214
+      "source_id": 214,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "23b2e7c3e62df2bf"
+      }
     },
     {
       "id": 211,
@@ -4877,7 +5422,15 @@
       },
       "correct": ["B"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 215
+      "source_id": 215,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8046e794b885ef71"
+      }
     },
     {
       "id": 212,
@@ -4894,7 +5447,15 @@
       },
       "correct": ["D"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 216
+      "source_id": 216,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0ce886fa62c9cd4d"
+      }
     },
     {
       "id": 213,
@@ -4911,7 +5472,15 @@
       },
       "correct": ["D"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 217
+      "source_id": 217,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6bfbba5a2c42a323"
+      }
     },
     {
       "id": 214,
@@ -4928,7 +5497,15 @@
       },
       "correct": ["B"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 218
+      "source_id": 218,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "19b3c423746fa8b7"
+      }
     },
     {
       "id": 215,
@@ -4945,7 +5522,15 @@
       },
       "correct": ["A"],
       "explanation": "A sound HITL design has Claude handle drafting/extraction while a human retains authorization over the actual consequential action, reviewing before — not after — it takes effect.",
-      "source_id": 219
+      "source_id": 219,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fa3623144bc24d03"
+      }
     },
     {
       "id": 216,
@@ -4962,7 +5547,15 @@
       },
       "correct": ["C"],
       "explanation": "HITL design keeps a human meaningfully in control of consequential decisions, with AI supporting rather than replacing that judgment.",
-      "source_id": 220
+      "source_id": 220,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "49f0cc11b74bd1f3"
+      }
     },
     {
       "id": 217,
@@ -5029,7 +5622,15 @@
       },
       "correct": ["A"],
       "explanation": "Review before external distribution — not after signing — is the point where a human checkpoint can actually prevent a problematic term from being sent.",
-      "source_id": 223
+      "source_id": 223,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3ff29a452543023b"
+      }
     },
     {
       "id": 220,
@@ -5146,7 +5747,15 @@
       },
       "correct": ["A"],
       "explanation": "Risk-proportional review — more scrutiny where the stakes or reversibility concerns are higher — is a sound design principle within a single workflow.",
-      "source_id": 228
+      "source_id": 228,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f8eaf3c274e8e979"
+      }
     },
     {
       "id": 225,
@@ -5163,7 +5772,15 @@
       },
       "correct": ["D"],
       "explanation": "Calibrating review intensity to actual risk — not applying uniform maximum scrutiny everywhere — reduces unnecessary bottlenecks while preserving safety where it matters.",
-      "source_id": 229
+      "source_id": 229,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "691bede7ff9693e0"
+      }
     },
     {
       "id": 226,
@@ -5255,7 +5872,15 @@
       },
       "correct": ["D"],
       "explanation": "Targeting mandatory review specifically at higher-risk content (regulated claims) while streamlining routine content is a sound, risk-proportional design.",
-      "source_id": 233
+      "source_id": 233,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "89d4043697f0843e"
+      }
     },
     {
       "id": 230,
@@ -5397,7 +6022,15 @@
       },
       "correct": ["C"],
       "explanation": "Specifying the target tool's exact expected format up front avoids the need for manual reformatting after the fact.",
-      "source_id": 239
+      "source_id": 239,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5cf327c283175488"
+      }
     },
     {
       "id": 236,
@@ -5489,7 +6122,15 @@
       },
       "correct": ["A"],
       "explanation": "Requesting the exact structured fields needed up front minimizes the manual extraction work required before the data reaches its destination.",
-      "source_id": 243
+      "source_id": 243,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bcbc5b5ac1e8d3bb"
+      }
     },
     {
       "id": 240,
@@ -5506,7 +6147,15 @@
       },
       "correct": ["C"],
       "explanation": "Treating format as a workflow-design consideration up front — not an afterthought — produces more directly usable output.",
-      "source_id": 244
+      "source_id": 244,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7e07d2c1a3edfade"
+      }
     },
     {
       "id": 241,
@@ -5549,7 +6198,15 @@
       },
       "correct": ["C"],
       "explanation": "Carrying forward a concise summary into a fresh conversation preserves what's relevant while shedding the accumulated clutter of an overly long thread.",
-      "source_id": 246
+      "source_id": 246,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "371a6c392c392d02"
+      }
     },
     {
       "id": 243,
@@ -5643,7 +6300,15 @@
       },
       "correct": ["D"],
       "explanation": "Persisting recurring, stable context at the Project level removes the repetitive manual re-entry burden.",
-      "source_id": 250
+      "source_id": 250,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "732e83859f6128e7"
+      }
     },
     {
       "id": 247,
@@ -5660,7 +6325,15 @@
       },
       "correct": ["C"],
       "explanation": "Without active management, important context can get buried under accumulated volume, which is exactly the failure mode summarization/restarting addresses.",
-      "source_id": 251
+      "source_id": 251,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1e73c8c96407e5d0"
+      }
     },
     {
       "id": 248,
@@ -5677,7 +6350,15 @@
       },
       "correct": ["A"],
       "explanation": "Explicitly capturing a summary of key decisions is a practical way to preserve continuity when transitioning to a new conversation.",
-      "source_id": 252
+      "source_id": 252,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "77655ea837845c58"
+      }
     },
     {
       "id": 249,
@@ -5694,7 +6375,15 @@
       },
       "correct": ["D"],
       "explanation": "Short, focused, single-topic conversations don't accumulate the context bloat that makes summarization or restarting valuable.",
-      "source_id": 253
+      "source_id": 253,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0079b50b0885669e"
+      }
     },
     {
       "id": 250,
@@ -5736,7 +6425,15 @@
       },
       "correct": ["B"],
       "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
-      "source_id": 255
+      "source_id": 255,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fa1331d676ba534e"
+      }
     },
     {
       "id": 252,
@@ -5753,7 +6450,15 @@
       },
       "correct": ["B"],
       "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
-      "source_id": 256
+      "source_id": 256,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1839746dd1210c1f"
+      }
     },
     {
       "id": 253,
@@ -5770,7 +6475,15 @@
       },
       "correct": ["B"],
       "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
-      "source_id": 257
+      "source_id": 257,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "bf4f22c4e8d23550"
+      }
     },
     {
       "id": 254,
@@ -5787,7 +6500,15 @@
       },
       "correct": ["B"],
       "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
-      "source_id": 258
+      "source_id": 258,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b42dd13435fc2392"
+      }
     },
     {
       "id": 255,
@@ -5804,7 +6525,15 @@
       },
       "correct": ["D"],
       "explanation": "Effective integration slots AI assistance into specific supporting steps of an existing process while preserving human ownership of the actual decision or final action.",
-      "source_id": 259
+      "source_id": 259,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "df701a2998680f56"
+      }
     },
     {
       "id": 256,
@@ -5871,7 +6600,15 @@
       },
       "correct": ["C"],
       "explanation": "A clear picture of the existing process is what allows for thoughtful, targeted integration rather than guesswork.",
-      "source_id": 262
+      "source_id": 262,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "ece3fa5ba77bd9ed"
+      }
     },
     {
       "id": 259,
@@ -5888,7 +6625,15 @@
       },
       "correct": ["A"],
       "explanation": "An inadvertently dropped safeguard should be restored — good AI integration shouldn't come at the cost of previously necessary controls.",
-      "source_id": 263
+      "source_id": 263,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8233a6987e939df9"
+      }
     },
     {
       "id": 260,
@@ -5980,7 +6725,15 @@
       },
       "correct": ["C"],
       "explanation": "Clear stages create checkpoints for catching issues early and allow each part of the process to be independently refined.",
-      "source_id": 267
+      "source_id": 267,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a6301a3cd3af5dcf"
+      }
     },
     {
       "id": 264,
@@ -6022,7 +6775,15 @@
       },
       "correct": ["D"],
       "explanation": "Catching foundational errors early avoids the wasted effort of building substantial additional work on top of a flawed base.",
-      "source_id": 269
+      "source_id": 269,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d0f1a01fb8925f6a"
+      }
     },
     {
       "id": 266,
@@ -6039,7 +6800,15 @@
       },
       "correct": ["C"],
       "explanation": "In a chained workflow, an uncaught early-stage error tends to propagate forward, corrupting everything built on top of it.",
-      "source_id": 270
+      "source_id": 270,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "517f3253e8b0477c"
+      }
     },
     {
       "id": 267,
@@ -6156,7 +6925,15 @@
       },
       "correct": ["B"],
       "explanation": "Project-level custom instructions apply automatically and consistently across every conversation in that Project, removing the need for manual repetition.",
-      "source_id": 275
+      "source_id": 275,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9902373bcac8933b"
+      }
     },
     {
       "id": 272,
@@ -6173,7 +6950,15 @@
       },
       "correct": ["B"],
       "explanation": "Project-level instructions persist and automatically apply to new conversations created within that Project.",
-      "source_id": 276
+      "source_id": 276,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8126d19f70431751"
+      }
     },
     {
       "id": 273,
@@ -6190,7 +6975,15 @@
       },
       "correct": ["C"],
       "explanation": "Persisted client-specific context in a Project saves the repetitive re-explanation that separate, unconfigured conversations would require.",
-      "source_id": 277
+      "source_id": 277,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "01c3febc1241ed1e"
+      }
     },
     {
       "id": 274,
@@ -6232,7 +7025,15 @@
       },
       "correct": ["D"],
       "explanation": "Standing format preferences for all work within a Project are exactly what Project-level custom instructions are designed to capture.",
-      "source_id": 279
+      "source_id": 279,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9a6b0788d141064e"
+      }
     },
     {
       "id": 276,
@@ -6249,7 +7050,15 @@
       },
       "correct": ["B"],
       "explanation": "The same clarity and specificity principles that make individual prompts effective also make Project-level instructions effective.",
-      "source_id": 280
+      "source_id": 280,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c4df53422e18fe62"
+      }
     },
     {
       "id": 277,
@@ -6391,7 +7200,15 @@
       },
       "correct": ["A"],
       "explanation": "Focused, relevant knowledge sources per Project keep responses grounded in what's actually pertinent, rather than diluted by irrelevant material.",
-      "source_id": 286
+      "source_id": 286,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "33a4e68471b019ee"
+      }
     },
     {
       "id": 283,
@@ -6458,7 +7275,15 @@
       },
       "correct": ["C"],
       "explanation": "Multiple genuinely relevant reference documents can all be added as knowledge sources to support the Project's actual needs.",
-      "source_id": 289
+      "source_id": 289,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "146594819e708f6e"
+      }
     },
     {
       "id": 286,
@@ -6475,7 +7300,15 @@
       },
       "correct": ["B"],
       "explanation": "More specific, immediate instructions for a given conversation generally take precedence over standing defaults, without erasing those defaults for other conversations.",
-      "source_id": 290
+      "source_id": 290,
+      "confidence": {
+        "rag": "amber",
+        "level": "medium",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9615e4525c351797"
+      }
     },
     {
       "id": 287,
@@ -6592,7 +7425,15 @@
       },
       "correct": ["A"],
       "explanation": "Projects operate independently — each one's configuration applies within its own scope without cross-contaminating another Project.",
-      "source_id": 295
+      "source_id": 295,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f97ad9a35945d98b"
+      }
     },
     {
       "id": 292,
@@ -6609,7 +7450,15 @@
       },
       "correct": ["A"],
       "explanation": "Shared configuration is what actually produces consistent output and shared context across a team working on the same body of work.",
-      "source_id": 296
+      "source_id": 296,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "61ef6dd8c75a6252"
+      }
     },
     {
       "id": 293,
@@ -6626,7 +7475,15 @@
       },
       "correct": ["D"],
       "explanation": "A shared Project with consistent instructions and knowledge sources is the direct way to keep an entire team aligned on guidelines and messaging.",
-      "source_id": 297
+      "source_id": 297,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "41bfb13518a3d8b4"
+      }
     },
     {
       "id": 294,
@@ -6668,7 +7525,15 @@
       },
       "correct": ["D"],
       "explanation": "Distinct clients with different requirements are well-served by separate, appropriately-scoped Projects rather than one undifferentiated shared setup or excessive fragmentation.",
-      "source_id": 299
+      "source_id": 299,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9e324f27b5c2750c"
+      }
     },
     {
       "id": 296,
@@ -6710,7 +7575,15 @@
       },
       "correct": ["D"],
       "explanation": "Sensitive personal, financial, health, or confidential information should be evaluated against organizational policy and applicable legal obligations before being shared in any AI tool.",
-      "source_id": 301
+      "source_id": 301,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "213ae3033ce0a983"
+      }
     },
     {
       "id": 298,
@@ -6802,7 +7675,15 @@
       },
       "correct": ["B"],
       "explanation": "Sharing only what's necessary for the task (data minimization) is a core responsible-use practice for handling sensitive information.",
-      "source_id": 310
+      "source_id": 310,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "08941203693bfa8d"
+      }
     },
     {
       "id": 302,
@@ -6869,7 +7750,15 @@
       },
       "correct": ["D"],
       "explanation": "Policy and regulatory compliance is the directly relevant question — message length, interest level, and response speed are irrelevant to the privacy consideration.",
-      "source_id": 313
+      "source_id": 313,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3224bbdb742e73b7"
+      }
     },
     {
       "id": 305,
@@ -6886,7 +7775,15 @@
       },
       "correct": ["B"],
       "explanation": "Regulated industries carry specific compliance obligations that must inform decisions about what data can appropriately be used with any tool, including AI.",
-      "source_id": 314
+      "source_id": 314,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "58936644e9b3982d"
+      }
     },
     {
       "id": 306,
@@ -6978,7 +7875,15 @@
       },
       "correct": ["A"],
       "explanation": "High-stakes personnel decisions deserve human judgment informed by broader context, not sole reliance on a single AI-generated artifact.",
-      "source_id": 318
+      "source_id": 318,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "19cb2cf8cb72c05c"
+      }
     },
     {
       "id": 310,
@@ -7020,7 +7925,15 @@
       },
       "correct": ["A"],
       "explanation": "Human review before sending sensitive, relationship-affecting communications is a proportionate responsible-use practice, distinct from either full automation or blanket avoidance.",
-      "source_id": 320
+      "source_id": 320,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "be986f00e88533f3"
+      }
     },
     {
       "id": 312,
@@ -7287,7 +8200,15 @@
       },
       "correct": ["A"],
       "explanation": "This type of content is generally considered low risk based on its potential consequences if something in it is wrong, which should inform how much review it receives.",
-      "source_id": 331
+      "source_id": 331,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "85db150e24f902d4"
+      }
     },
     {
       "id": 323,
@@ -7304,7 +8225,15 @@
       },
       "correct": ["C"],
       "explanation": "This type of content is generally considered high risk based on its potential consequences if something in it is wrong, which should inform how much review it receives.",
-      "source_id": 332
+      "source_id": 332,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "80bca2c622bb5ee3"
+      }
     },
     {
       "id": 324,
@@ -7496,7 +8425,15 @@
       },
       "correct": ["A"],
       "explanation": "A well-designed policy establishes consistent, clear expectations tailored to the organization's actual risk profile and needs — not blanket prohibition or undifferentiated uniformity.",
-      "source_id": 344
+      "source_id": 344,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2bfdf86f6e0f1fb6"
+      }
     },
     {
       "id": 332,
@@ -7538,7 +8475,15 @@
       },
       "correct": ["B"],
       "explanation": "Defining approved use cases is a practical risk-management tool that still allows productive use within clear, sensible boundaries.",
-      "source_id": 346
+      "source_id": 346,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b2ea9654da1b23c0"
+      }
     },
     {
       "id": 334,
@@ -7605,7 +8550,15 @@
       },
       "correct": ["D"],
       "explanation": "Following the current, updated policy — not the outdated version — is the expected standard once a policy has been revised.",
-      "source_id": 349
+      "source_id": 349,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c48bdc33e5109df8"
+      }
     },
     {
       "id": 337,
@@ -7622,7 +8575,15 @@
       },
       "correct": ["B"],
       "explanation": "Abrupt mid-sentence cutoffs are the classic symptom of hitting an output length limit, not a malfunction.",
-      "source_id": 350
+      "source_id": 350,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "543f2b0463518a4b"
+      }
     },
     {
       "id": 338,
@@ -7639,7 +8600,15 @@
       },
       "correct": ["C"],
       "explanation": "Simply asking Claude to continue from where it stopped is the direct, practical fix for a length-limited cutoff.",
-      "source_id": 351
+      "source_id": 351,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d142a6a84b7e7d8f"
+      }
     },
     {
       "id": 339,
@@ -7681,7 +8650,15 @@
       },
       "correct": ["B"],
       "explanation": "Sectioning a very large document into manageable pieces is a practical, effective way to avoid repeated truncation on any single response.",
-      "source_id": 353
+      "source_id": 353,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "585ce8856dc44f60"
+      }
     },
     {
       "id": 341,
@@ -7748,7 +8725,15 @@
       },
       "correct": ["C"],
       "explanation": "Very large documents can exceed practical context limits, making chunking into smaller sections a necessary workaround.",
-      "source_id": 356
+      "source_id": 356,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5d5da654f9ef9e93"
+      }
     },
     {
       "id": 344,
@@ -7765,7 +8750,15 @@
       },
       "correct": ["A"],
       "explanation": "Splitting by logical sections and synthesizing afterward is a sound way to handle documents that exceed single-pass processing limits.",
-      "source_id": 357
+      "source_id": 357,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6480b163a73e4e1c"
+      }
     },
     {
       "id": 345,
@@ -7782,7 +8775,15 @@
       },
       "correct": ["C"],
       "explanation": "Splitting at logical boundaries preserves the coherence of each chunk, making analysis more reliable than arbitrary or mid-sentence splits.",
-      "source_id": 358
+      "source_id": 358,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "54fccf5b0627dc3c"
+      }
     },
     {
       "id": 346,
@@ -7799,7 +8800,15 @@
       },
       "correct": ["D"],
       "explanation": "A final synthesis step ties the individual chunk-level analyses back together into one coherent overall result.",
-      "source_id": 359
+      "source_id": 359,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "895d6b1b03110e0b"
+      }
     },
     {
       "id": 347,
@@ -7994,7 +9003,15 @@
       },
       "correct": ["B"],
       "explanation": "A concrete example of the target formatting style gives a clear, checkable target for the reformatted output to match.",
-      "source_id": 367
+      "source_id": 367,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "fc0cc26002196e8e"
+      }
     },
     {
       "id": 355,
@@ -8162,7 +9179,15 @@
       },
       "correct": ["A"],
       "explanation": "Reviewing the full set of instructions together — especially when adding new ones — helps catch conflicts before they accumulate unnoticed.",
-      "source_id": 374
+      "source_id": 374,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "1c5d4fcaa2a8fa01"
+      }
     },
     {
       "id": 362,
@@ -8179,7 +9204,15 @@
       },
       "correct": ["A"],
       "explanation": "Moderate-complexity, high-volume summarization is a good fit for a faster, lighter tier rather than defaulting to the most expensive option.",
-      "source_id": 375
+      "source_id": 375,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f964a9fea3b3fcc7"
+      }
     },
     {
       "id": 363,
@@ -8326,7 +9359,15 @@
       },
       "correct": ["C"],
       "explanation": "A hands-on, usable tool for colleagues is best delivered as an interactive artifact rather than a conceptual text description.",
-      "source_id": 381
+      "source_id": 381,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "3d2912e4d25a92cc"
+      }
     },
     {
       "id": 369,
@@ -8418,7 +9459,15 @@
       },
       "correct": ["D"],
       "explanation": "Whether the work will benefit from persistent, shared context across future conversations is the substantive question for choosing a Project versus a one-off chat.",
-      "source_id": 385
+      "source_id": 385,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "125dbcfa8c569b38"
+      }
     },
     {
       "id": 373,
@@ -8560,7 +9609,15 @@
       },
       "correct": ["A"],
       "explanation": "The value of centralized administration and consistent policy grows as coordination needs increase with organizational scale.",
-      "source_id": 391
+      "source_id": 391,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4c87f3c56ae4caec"
+      }
     },
     {
       "id": 379,
@@ -8602,7 +9659,15 @@
       },
       "correct": ["C"],
       "explanation": "Deployment choice can reasonably scale with actual coordination and governance needs, which are typically lower for a very small team.",
-      "source_id": 393
+      "source_id": 393,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8ff68413e9652a99"
+      }
     },
     {
       "id": 381,
@@ -8619,7 +9684,15 @@
       },
       "correct": ["C"],
       "explanation": "Weighing actual collaboration needs, administrative requirements, and usage volume is the substantive basis for a sound plan/deployment decision.",
-      "source_id": 394
+      "source_id": 394,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8d5a17f888f884c4"
+      }
     },
     {
       "id": 382,
@@ -8636,7 +9709,15 @@
       },
       "correct": ["C"],
       "explanation": "When neither currency of information nor persistent context is actually needed, plain conversation is the simplest, most proportionate choice.",
-      "source_id": 395
+      "source_id": 395,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "7050a0b766644715"
+      }
     },
     {
       "id": 383,
@@ -8678,7 +9759,15 @@
       },
       "correct": ["D"],
       "explanation": "Specifying the destination's exact requirements up front avoids a recurring manual reordering step downstream.",
-      "source_id": 397
+      "source_id": 397,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "641390c3f78c1fc7"
+      }
     },
     {
       "id": 385,
@@ -8695,7 +9784,15 @@
       },
       "correct": ["B"],
       "explanation": "Documenting and reusing a consistent format specification avoids re-deriving requirements from scratch on every run of a recurring workflow step.",
-      "source_id": 398
+      "source_id": 398,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d6aa6eb52c640c88"
+      }
     },
     {
       "id": 386,
@@ -8712,7 +9809,15 @@
       },
       "correct": ["C"],
       "explanation": "Matching format to how the output will actually be consumed — spoken delivery favors linear prose over visual structures like tables — avoids a mismatch.",
-      "source_id": 399
+      "source_id": 399,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b905feb6a8d3ef5d"
+      }
     },
     {
       "id": 387,
@@ -8779,7 +9884,15 @@
       },
       "correct": ["A"],
       "explanation": "A concise, curated summary gives the new conversation what it actually needs without the overhead of the full historical record.",
-      "source_id": 402
+      "source_id": 402,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d23d564562594bfa"
+      }
     },
     {
       "id": 390,
@@ -9046,7 +10159,15 @@
       },
       "correct": ["C"],
       "explanation": "Because Project instructions apply broadly and repeatedly, getting them right at setup time pays off across every future conversation in that Project.",
-      "source_id": 413
+      "source_id": 413,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e01096afc488390c"
+      }
     },
     {
       "id": 401,
@@ -9113,7 +10234,15 @@
       },
       "correct": ["B"],
       "explanation": "A current, accessible overview of the Project's setup helps new team members use it correctly without unnecessary trial and error.",
-      "source_id": 416
+      "source_id": 416,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6ccb541dc2f21c9a"
+      }
     },
     {
       "id": 404,
@@ -9130,7 +10259,15 @@
       },
       "correct": ["B"],
       "explanation": "A significant shift in purpose calls for a deliberate configuration review and update, rather than leaving stale settings in place.",
-      "source_id": 417
+      "source_id": 417,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5155ee0505fa693d"
+      }
     },
     {
       "id": 405,
@@ -9147,7 +10284,15 @@
       },
       "correct": ["C"],
       "explanation": "Custom instructions can reasonably combine multiple clear, complementary standing requirements like tone and structure together.",
-      "source_id": 418
+      "source_id": 418,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "de5f7a432f003e84"
+      }
     },
     {
       "id": 406,
@@ -9239,7 +10384,15 @@
       },
       "correct": ["D"],
       "explanation": "A quick verification that the new material is actually being used appropriately confirms the configuration is working as intended.",
-      "source_id": 422
+      "source_id": 422,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "30f92096e845bb01"
+      }
     },
     {
       "id": 410,
@@ -9256,7 +10409,15 @@
       },
       "correct": ["A"],
       "explanation": "Removing unnecessary sensitive material that doesn't serve the Project's actual purpose reduces avoidable exposure — a straightforward data-minimization practice.",
-      "source_id": 423
+      "source_id": 423,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "103921c28823935f"
+      }
     },
     {
       "id": 411,
@@ -9298,7 +10459,15 @@
       },
       "correct": ["D"],
       "explanation": "A knowledge source added as an upload is a snapshot at that point in time — understanding the need to refresh it is important for a frequently-changing source.",
-      "source_id": 425
+      "source_id": 425,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9d74298dc8fb315b"
+      }
     },
     {
       "id": 413,
@@ -9315,7 +10484,15 @@
       },
       "correct": ["D"],
       "explanation": "Relevance to the Project's actual purpose — not sheer volume or file size — is the sound basis for scoping knowledge sources.",
-      "source_id": 426
+      "source_id": 426,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5658d7479391a713"
+      }
     },
     {
       "id": 414,
@@ -9332,7 +10509,15 @@
       },
       "correct": ["A"],
       "explanation": "Tracing the outdated reference back to its source material and updating or removing that source is the direct, appropriate fix.",
-      "source_id": 427
+      "source_id": 427,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "12b008fbc9ef567d"
+      }
     },
     {
       "id": 415,
@@ -9374,7 +10559,15 @@
       },
       "correct": ["B"],
       "explanation": "A clearly stated, request-specific exception is the proportionate way to handle a one-off deviation without altering the standing default.",
-      "source_id": 429
+      "source_id": 429,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "b0b7b556d05fd1da"
+      }
     },
     {
       "id": 417,
@@ -9416,7 +10609,15 @@
       },
       "correct": ["C"],
       "explanation": "Confirming the actual scope where a rule was set (Project-wide vs. one conversation) is the direct way to diagnose apparent inconsistency.",
-      "source_id": 431
+      "source_id": 431,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "eebf50ce744c4841"
+      }
     },
     {
       "id": 419,
@@ -9458,7 +10659,15 @@
       },
       "correct": ["A"],
       "explanation": "A genuinely permanent change to standing behavior requires updating the Project-level instructions themselves, not just a one-off in-conversation statement.",
-      "source_id": 433
+      "source_id": 433,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6c9b975ff6588fbf"
+      }
     },
     {
       "id": 421,
@@ -9475,7 +10684,15 @@
       },
       "correct": ["C"],
       "explanation": "As distinct contexts emerge across sub-teams/clients, splitting into appropriately scoped separate Projects better serves each group's specific needs.",
-      "source_id": 434
+      "source_id": 434,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "6e4e2920a38e10e6"
+      }
     },
     {
       "id": 422,
@@ -9517,7 +10734,15 @@
       },
       "correct": ["B"],
       "explanation": "A single shared Project tailored to the initiative gives the cross-functional team the consistent context it needs.",
-      "source_id": 436
+      "source_id": 436,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f4b7f2eec3143ffc"
+      }
     },
     {
       "id": 424,
@@ -9609,7 +10834,15 @@
       },
       "correct": ["A"],
       "explanation": "Verifying against the actual organizational classification (or asking) is more reliable than assuming or guessing about a document's sensitivity.",
-      "source_id": 440
+      "source_id": 440,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "5a6d0130211e53ef"
+      }
     },
     {
       "id": 428,
@@ -9676,7 +10909,15 @@
       },
       "correct": ["B"],
       "explanation": "Preferring anonymized/synthetic data when it serves the purpose equally well is a sound, low-cost privacy practice.",
-      "source_id": 443
+      "source_id": 443,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "d988d82fc743e01a"
+      }
     },
     {
       "id": 431,
@@ -9818,7 +11059,15 @@
       },
       "correct": ["A"],
       "explanation": "Signs of a potential personal crisis call for escalation to appropriate trained personnel or processes, not a purely transactional AI-drafted response.",
-      "source_id": 449
+      "source_id": 449,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "67d4426a8b909939"
+      }
     },
     {
       "id": 437,
@@ -9935,7 +11184,15 @@
       },
       "correct": ["A"],
       "explanation": "Because actual risk depends on evolving use and audience, treating categorization as an ongoing check (not a permanent one-time label) is more accurate.",
-      "source_id": 454
+      "source_id": 454,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9ac14813ee293e64"
+      }
     },
     {
       "id": 442,
@@ -9952,7 +11209,15 @@
       },
       "correct": ["A"],
       "explanation": "A meaningful change in audience/use (internal to external) warrants re-categorizing risk and applying appropriately elevated review before publication.",
-      "source_id": 455
+      "source_id": 455,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c3e44bf5d4b170ae"
+      }
     },
     {
       "id": 443,
@@ -10044,7 +11309,15 @@
       },
       "correct": ["A"],
       "explanation": "Proactively restructuring a recurring large request into planned sections is a more durable fix than repeatedly reacting to truncation after the fact.",
-      "source_id": 459
+      "source_id": 459,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "2e21c4ede263bc16"
+      }
     },
     {
       "id": 447,
@@ -10136,7 +11409,15 @@
       },
       "correct": ["D"],
       "explanation": "A dedicated synthesis step that explicitly pulls together relevant details from different chunks is the practical way to make cross-chunk comparisons.",
-      "source_id": 463
+      "source_id": 463,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9d963cb6a0e50095"
+      }
     },
     {
       "id": 451,
@@ -10153,7 +11434,15 @@
       },
       "correct": ["C"],
       "explanation": "Balancing practical size limits against preserving coherent sections is the sound basis for choosing chunk boundaries.",
-      "source_id": 464
+      "source_id": 464,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "4deaa048c0be3f6d"
+      }
     },
     {
       "id": 452,
@@ -10370,7 +11659,15 @@
       },
       "correct": ["C"],
       "explanation": "A brief consistency check before adding new standing instructions is a practical way to prevent conflicts from accumulating in the first place.",
-      "source_id": 473
+      "source_id": 473,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c53ec2667fddd3e0"
+      }
     },
     {
       "id": 461,
@@ -10387,7 +11684,15 @@
       },
       "correct": ["A"],
       "explanation": "An empirical head-to-head comparison showing equivalent quality is exactly the evidence needed to justify standardizing on the more cost-effective tier for that task.",
-      "source_id": 474
+      "source_id": 474,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "55a7819d1a63ed4a"
+      }
     },
     {
       "id": 462,
@@ -10479,7 +11784,15 @@
       },
       "correct": ["D"],
       "explanation": "A shared baseline at the Project level, with room for individual, conversation-specific adjustments, reasonably balances consistency and personal preference.",
-      "source_id": 478
+      "source_id": 478,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "e3396d38b932bd7f"
+      }
     },
     {
       "id": 466,
@@ -10496,7 +11809,15 @@
       },
       "correct": ["C"],
       "explanation": "Clarity, specificity, and genuine standing relevance are the practical quality markers for custom instructions, mirroring good prompt-writing principles.",
-      "source_id": 479
+      "source_id": 479,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "c1f4883bad808df3"
+      }
     },
     {
       "id": 467,
@@ -10513,7 +11834,15 @@
       },
       "correct": ["C"],
       "explanation": "Periodic pruning of outdated or irrelevant knowledge sources keeps a Project's grounding material relevant and focused over time.",
-      "source_id": 480
+      "source_id": 480,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "dc1f0f2de598318b"
+      }
     },
     {
       "id": 468,
@@ -10530,7 +11859,15 @@
       },
       "correct": ["A"],
       "explanation": "Clarity and organization affect how reliably relevant information can actually be drawn from a document, not just whether the topic is a match.",
-      "source_id": 481
+      "source_id": 481,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "229233a34444afd1"
+      }
     },
     {
       "id": 469,
@@ -10572,7 +11909,15 @@
       },
       "correct": ["C"],
       "explanation": "Matching instruction placement to its intended breadth of application — broad and recurring at the Project level, narrow and one-off within a conversation — is the sound rule of thumb.",
-      "source_id": 483
+      "source_id": 483,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "f6e67ab0db1d5dc9"
+      }
     },
     {
       "id": 471,
@@ -10739,7 +12084,15 @@
       },
       "correct": ["C"],
       "explanation": "Since the length pattern is known and predictable for this recurring report, planning a sectioned approach from the outset is more durable than repeatedly reacting after each truncation.",
-      "source_id": 490
+      "source_id": 490,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "0dde973b2ded3e8f"
+      }
     },
     {
       "id": 478,
@@ -10781,7 +12134,15 @@
       },
       "correct": ["C"],
       "explanation": "A reusable, structure-aware chunking approach is more efficient for recurring, similarly-structured documents than reinventing the strategy each time.",
-      "source_id": 492
+      "source_id": 492,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "a3347e5b16331da3"
+      }
     },
     {
       "id": 480,
@@ -10873,7 +12234,15 @@
       },
       "correct": ["C"],
       "explanation": "A direct request to fix the heading hierarchy into a logical, consistent structure is the straightforward fix for this kind of formatting problem.",
-      "source_id": 496
+      "source_id": 496,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "697d14899df11e6a"
+      }
     },
     {
       "id": 484,
@@ -10940,7 +12309,15 @@
       },
       "correct": ["A"],
       "explanation": "Noting the exact stopping point makes it easy to verify the continuation picks up cleanly, without gaps or duplication at the seam.",
-      "source_id": 499
+      "source_id": 499,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "8e3db544c50b83ae"
+      }
     },
     {
       "id": 487,
@@ -10957,7 +12334,15 @@
       },
       "correct": ["C"],
       "explanation": "Deliberate noticing, resolving, and — where warranted — updating the standing default is the sound general pattern for handling instruction conflicts across scopes.",
-      "source_id": 500
+      "source_id": 500,
+      "confidence": {
+        "rag": "amber",
+        "level": "high",
+        "basis": "reasoning",
+        "timeSensitive": false,
+        "reviewed": "2026-11-20",
+        "contentHash": "9ada2e31bf4c901b"
+      }
     }
   ]
 }
